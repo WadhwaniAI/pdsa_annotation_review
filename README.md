@@ -11,6 +11,13 @@ A Gradio-based web application for reviewing and verifying crop annotations with
 - **Navigation**: Browse through annotations with previous/next buttons
 - **Save Reviews**: Export reviewed annotations to CSV
 
+## Demo
+
+Watch the demo video to see the PDSA Annotation Review Tool in action:
+
+https://github.com/WadhwaniAI/pdsa-annotation-double/assets/demo.mov
+
+
 ## Installation
 
 1. Install dependencies:
@@ -60,7 +67,8 @@ pdsa-annotation-double/
 ├── README.md                                # This file
 ├── assets/
 │   ├── double_annotations_for_review.csv    # Input annotations
-│   └── labels.json                          # Crop label definitions
+│   ├── labels.json                          # Crop label definitions
+│   └── demo.mov                             # Demo video
 └── output/                                  # Directory for individual review JSON files
     ├── _data_nagpur_data_imgs_maize_*.json  # Individual review files
     └── ...
