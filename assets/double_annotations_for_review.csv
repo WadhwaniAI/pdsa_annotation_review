@@ -1,0 +1,1125 @@
+image_path,crop1,label1,crop2,label2
+/data/nagpur_data/imgs/maize/ZARS_1_0701_1.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/ZARS_1_0701_10.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/ZARS_1_0701_11.png,maize,['Healthy'],maize,['Healthy']
+/data/nagpur_data/imgs/maize/ZARS_1_0701_12.png,maize,['Fall_armyworm'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/ZARS_1_0701_14.png,maize,['Others'],maize,"['Turcicum_Leaf_Blight', 'Others']"
+/data/nagpur_data/imgs/maize/ZARS_1_0701_15.png,maize,['Healthy'],maize,['Leaf_beetle']
+/data/nagpur_data/imgs/maize/ZARS_1_0701_16.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/ZARS_1_0701_18.png,maize,['Healthy'],maize,['Streak']
+/data/nagpur_data/imgs/maize/ZARS_1_0701_19.png,maize,"['Fall_armyworm', 'Leaf_blight']",maize,['Stem_Borer']
+/data/nagpur_data/imgs/maize/ZARS_1_0701_2.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/ZARS_1_0701_20.png,maize,"['Leaf_blight', 'Streak', 'Others']",maize,['Streak']
+/data/nagpur_data/imgs/maize/ZARS_1_0701_21.png,maize,['Healthy'],maize,['Healthy']
+/data/nagpur_data/imgs/maize/ZARS_1_0701_22.png,maize,['Leaf_blight'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/ZARS_1_0701_23.png,maize,"['Leaf_blight', 'Streak']",maize,['Maydis_Leaf_Blight']
+/data/nagpur_data/imgs/maize/ZARS_1_0701_24.png,maize,"['Fall_armyworm', 'Leaf_spot']",maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/ZARS_1_0701_25.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/ZARS_1_0701_26.png,maize,['Fall_armyworm'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/maize/ZARS_1_0701_27.png,maize,['Fall_armyworm'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/maize/ZARS_1_0701_28.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/ZARS_1_0701_29.png,maize,"['Fall_armyworm', 'Leaf_blight']",maize,"['Fall_Armyworm', 'Turcicum_Leaf_Blight']"
+/data/nagpur_data/imgs/maize/ZARS_1_0701_3.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/ZARS_1_0701_30.png,maize,['Others'],maize,"['Healthy', 'Others']"
+/data/nagpur_data/imgs/maize/ZARS_1_0701_31.png,maize,['Rust'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/maize/ZARS_1_0701_32.png,maize,['Leaf_blight'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/ZARS_1_0701_33.png,maize,['Others'],maize,"['Streak', 'Turcicum_Leaf_Blight']"
+/data/nagpur_data/imgs/maize/ZARS_1_0701_34.png,maize,['Leaf_blight'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/ZARS_1_0701_35.png,maize,"['Fall_armyworm', 'Others']",maize,['Healthy']
+/data/nagpur_data/imgs/maize/ZARS_1_0701_36.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/ZARS_1_0701_37.png,maize,['Others'],maize,['Others']
+/data/nagpur_data/imgs/maize/ZARS_1_0701_38.png,maize,['Leaf_blight'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/maize/ZARS_1_0701_39.png,maize,['Leaf_blight'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/ZARS_1_0701_4.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/ZARS_1_0701_40.png,maize,['Leaf_blight'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/ZARS_1_0701_41.png,maize,['Rust'],maize,['Healthy']
+/data/nagpur_data/imgs/maize/ZARS_1_0701_42.png,maize,['Leaf_blight'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/ZARS_1_0701_43.png,maize,['Leaf_blight'],maize,"['Leaf_beetle', 'Turcicum_Leaf_Blight']"
+/data/nagpur_data/imgs/maize/ZARS_1_0701_44.png,maize,['Fall_armyworm'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/maize/ZARS_1_0701_45.png,maize,['Rust'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/ZARS_1_0701_46.png,maize,['Leaf_spot'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/maize/ZARS_1_0701_47.png,maize,['Others'],maize,['Healthy']
+/data/nagpur_data/imgs/maize/ZARS_1_0701_48.png,maize,['Healthy'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/maize/ZARS_1_0701_5.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/ZARS_1_0701_6.png,maize,['Others'],maize,['Healthy']
+/data/nagpur_data/imgs/maize/ZARS_1_0701_7.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/ZARS_1_0701_8.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/ZARS_1_0701_9.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/ZARS_2_0701_1.png,maize,['Fall_armyworm'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/maize/ZARS_2_0701_10.png,maize,['Leaf_beetle'],maize,['Leaf_beetle']
+/data/nagpur_data/imgs/maize/ZARS_2_0701_11.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/ZARS_2_0701_12.png,maize,['Fall_armyworm'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/ZARS_2_0701_13.png,maize,"['Rust', 'Leaf_blight']",maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/ZARS_2_0701_14.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/ZARS_2_0701_15.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/ZARS_2_0701_16.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/ZARS_2_0701_17.png,maize,['Leaf_blight'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/maize/ZARS_2_0701_18.png,maize,"['Others', 'Fall_armyworm']",maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/ZARS_2_0701_19.png,maize,['Fall_armyworm'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/ZARS_2_0701_2.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/ZARS_2_0701_20.png,maize,['Others'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/maize/ZARS_2_0701_21.png,maize,"['Others', 'Leaf_blight']",maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/ZARS_2_0701_22.png,maize,"['Leaf_blight', 'Streak']",maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/ZARS_2_0701_23.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/ZARS_2_0701_25.png,maize,['Others'],maize,['Healthy']
+/data/nagpur_data/imgs/maize/ZARS_2_0701_26.png,maize,['Leaf_spot'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/maize/ZARS_2_0701_27.png,maize,"['Stem_borer', 'Others']",maize,['Stem_Borer']
+/data/nagpur_data/imgs/maize/ZARS_2_0701_28.png,maize,['Leaf_blight'],maize,['Healthy']
+/data/nagpur_data/imgs/maize/ZARS_2_0701_29.png,maize,['Leaf_blight'],maize,"['Turcicum_Leaf_Blight', 'Others']"
+/data/nagpur_data/imgs/maize/ZARS_2_0701_3.png,maize,['Fall_armyworm'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/maize/ZARS_2_0701_30.png,maize,['Leaf_beetle'],maize,['Others']
+/data/nagpur_data/imgs/maize/ZARS_2_0701_31.png,maize,['Others'],others,['others']
+/data/nagpur_data/imgs/maize/ZARS_2_0701_32.png,maize,['Others'],maize,['Others']
+/data/nagpur_data/imgs/maize/ZARS_2_0701_33.png,maize,['Others'],wheat,['healthy']
+/data/nagpur_data/imgs/maize/ZARS_2_0701_34.png,maize,['Others'],others,['others']
+/data/nagpur_data/imgs/maize/ZARS_2_0701_35.png,maize,['Others'],sorghum,['healthy']
+/data/nagpur_data/imgs/maize/ZARS_2_0701_4.png,maize,['Others'],maize,"['Healthy', 'Others']"
+/data/nagpur_data/imgs/maize/ZARS_2_0701_5.png,maize,['Leaf_spot'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/maize/ZARS_2_0701_6.png,maize,['Stem_borer'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/maize/ZARS_2_0701_7.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/ZARS_2_0701_8.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/ZARS_2_0701_9.png,maize,['Healthy'],maize,['Others']
+/data/nagpur_data/imgs/cotton/ankur_1_0901_1.png,cotton,['aphids'],cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/ankur_1_0901_10.png,cotton,['others'],cotton,['Pink_Bollworm']
+/data/nagpur_data/imgs/cotton/ankur_1_0901_12.png,cotton,['aphids'],cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/ankur_1_0901_13.png,cotton,"['aphids', 'whitefly']",cotton,"['Aphids', 'Jassids']"
+/data/nagpur_data/imgs/cotton/ankur_1_0901_14.png,cotton,['whitefly'],cotton,"['Aphids', 'Jassids']"
+/data/nagpur_data/imgs/cotton/ankur_1_0901_15.png,cotton,"['whitefly', 'aphids']",cotton,"['Aphids', 'Whitefly', 'Jassids']"
+/data/nagpur_data/imgs/cotton/ankur_1_0901_16.png,cotton,"['whitefly', 'aphids']",cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/ankur_1_0901_17.png,cotton,['aphids'],cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/ankur_1_0901_18.png,cotton,['aphids'],cotton,"['Whitefly', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/ankur_1_0901_19.png,cotton,['others'],cotton,"['Whitefly', 'Aphids']"
+/data/nagpur_data/imgs/cotton/ankur_1_0901_2.png,cotton,['aphids'],cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/ankur_1_0901_20.png,cotton,['others'],cotton,['Alternaria_Leaf_Spot']
+/data/nagpur_data/imgs/cotton/ankur_1_0901_21.png,cotton,['others'],cotton,['Thrips']
+/data/nagpur_data/imgs/cotton/ankur_1_0901_22.png,cotton,['others'],chilli,['Pink_Bollworm']
+/data/nagpur_data/imgs/cotton/ankur_1_0901_23.png,cotton,['others'],cotton,['Healthy']
+/data/nagpur_data/imgs/cotton/ankur_1_0901_24.png,cotton,['others'],cotton,['Alternaria_Leaf_Spot']
+/data/nagpur_data/imgs/cotton/ankur_1_0901_25.png,cotton,['others'],cotton,['Alternaria_Leaf_Spot']
+/data/nagpur_data/imgs/cotton/ankur_1_0901_26.png,cotton,['whitefly'],cotton,['Whitefly']
+/data/nagpur_data/imgs/cotton/ankur_1_0901_27.png,cotton,['others'],cotton,"['Thrips', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/ankur_1_0901_28.png,cotton,['others'],cotton,['Alternaria_Leaf_Spot']
+/data/nagpur_data/imgs/cotton/ankur_1_0901_29.png,cotton,['others'],cotton,['Red_Cotton_Bug']
+/data/nagpur_data/imgs/cotton/ankur_1_0901_3.png,cotton,['aphids'],cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/ankur_1_0901_30.png,cotton,['others'],cotton,"['Whitefly', 'Powdery_Mildew']"
+/data/nagpur_data/imgs/cotton/ankur_1_0901_31.png,cotton,['others'],cotton,"['Whitefly', 'Aphids']"
+/data/nagpur_data/imgs/cotton/ankur_1_0901_33.png,cotton,['others'],cotton,['Healthy']
+/data/nagpur_data/imgs/cotton/ankur_1_0901_4.png,cotton,['aphids'],cotton,['Bacterial_Blight']
+/data/nagpur_data/imgs/cotton/ankur_1_0901_5.png,cotton,['others'],cotton,"['Red_Cotton_Bug', 'Bacterial_Blight']"
+/data/nagpur_data/imgs/cotton/ankur_1_0901_6.png,cotton,['others'],cotton,['Pink_Bollworm']
+/data/nagpur_data/imgs/cotton/ankur_1_0901_7.png,cotton,['others'],cotton,['Pink_Bollworm']
+/data/nagpur_data/imgs/cotton/ankur_1_0901_9.png,cotton,['whitefly'],cotton,['Others']
+/data/nagpur_data/imgs/maize/ankur_2_0901_1.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/ankur_2_0901_10.png,maize,['Others'],maize,['Streak']
+/data/nagpur_data/imgs/maize/ankur_2_0901_11.png,maize,['Others'],maize,"['Turcicum_Leaf_Blight', 'Streak']"
+/data/nagpur_data/imgs/maize/ankur_2_0901_12.png,maize,['Leaf_spot'],maize,['Streak']
+/data/nagpur_data/imgs/maize/ankur_2_0901_13.png,maize,['Leaf_spot'],maize,['Streak']
+/data/nagpur_data/imgs/maize/ankur_2_0901_14.png,maize,['Leaf_spot'],maize,['Streak']
+/data/nagpur_data/imgs/maize/ankur_2_0901_15.png,maize,['Leaf_spot'],maize,"['Turcicum_Leaf_Blight', 'Others', 'Streak']"
+/data/nagpur_data/imgs/maize/ankur_2_0901_16.png,maize,['Leaf_spot'],maize,"['Streak', 'Maydis_Leaf_Blight', 'Sorghum_Downy_Mildew']"
+/data/nagpur_data/imgs/maize/ankur_2_0901_17.png,maize,['Leaf_spot'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/maize/ankur_2_0901_18.png,maize,['Others'],sorghum,"['head_bug', 'others']"
+/data/nagpur_data/imgs/maize/ankur_2_0901_19.png,maize,['Others'],maize,['Others']
+/data/nagpur_data/imgs/maize/ankur_2_0901_2.png,maize,['Healthy'],maize,['Healthy']
+/data/nagpur_data/imgs/maize/ankur_2_0901_20.png,maize,"['Others', 'Leaf_beetle']",maize,['Leaf_beetle']
+/data/nagpur_data/imgs/maize/ankur_2_0901_22.png,maize,['Others'],sorghum,['head_bug']
+/data/nagpur_data/imgs/maize/ankur_2_0901_3.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/ankur_2_0901_4.png,maize,['Fall_armyworm'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/maize/ankur_2_0901_5.png,maize,['Healthy'],maize,['Healthy']
+/data/nagpur_data/imgs/maize/ankur_2_0901_6.png,maize,['Healthy'],maize,['Healthy']
+/data/nagpur_data/imgs/maize/ankur_2_0901_7.png,maize,['Fall_armyworm'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/ankur_2_0901_8.png,maize,"['Others', 'Leaf_blight']",maize,['Maydis_Leaf_Blight']
+/data/nagpur_data/imgs/maize/ankur_2_0901_9.png,maize,['Leaf_spot'],maize,['Maydis_Leaf_Blight']
+/data/nagpur_data/imgs/chilli/ankur_3_0901_1.png,chilli,['Thrips'],chilli,['Thrips']
+/data/nagpur_data/imgs/chilli/ankur_3_0901_2.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Others', 'Whitefly']"
+/data/nagpur_data/imgs/chilli/ankur_3_0901_3.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/ankur_3_0901_4.png,chilli,['Healthy'],chilli,"['Leaf_curl', 'Others']"
+/data/nagpur_data/imgs/chilli/ankur_3_0901_6.png,chilli,['Others'],others,['others']
+/data/nagpur_data/imgs/cotton/ankurseeds_test.png,cotton,['others'],cotton,"['Whitefly', 'Aphids']"
+/data/nagpur_data/imgs/chilli/smartu_1_0801_1.png,chilli,['Thrips'],others,['random']
+/data/nagpur_data/imgs/chilli/smartu_1_0801_10.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/smartu_1_0801_11.png,chilli,['Others'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/smartu_1_0801_12.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/smartu_1_0801_13.png,chilli,['Healthy'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/smartu_1_0801_14.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/smartu_1_0801_15.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/smartu_1_0801_16.png,chilli,['Others'],others,['others']
+/data/nagpur_data/imgs/chilli/smartu_1_0801_17.png,chilli,['Others'],others,['others']
+/data/nagpur_data/imgs/chilli/smartu_1_0801_18.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/smartu_1_0801_19.png,chilli,['Others'],others,['others']
+/data/nagpur_data/imgs/chilli/smartu_1_0801_2.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/smartu_1_0801_20.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Whitefly', 'Thrips', 'Others']"
+/data/nagpur_data/imgs/chilli/smartu_1_0801_21.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Thrips', 'Others']"
+/data/nagpur_data/imgs/chilli/smartu_1_0801_22.png,chilli,['Others'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/smartu_1_0801_3.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/smartu_1_0801_4.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/smartu_1_0801_5.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/smartu_1_0801_6.png,chilli,"['Thrips', 'Others']",chilli,['Leaf_curl']
+/data/nagpur_data/imgs/chilli/smartu_1_0801_7.png,chilli,"['Thrips', 'Leaf_curl']",chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/smartu_1_0801_8.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/smartu_1_0801_9.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/cotton/smartu_2_0801_1.png,cotton,['others'],cotton,"['Red_Cotton_Bug', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/smartu_2_0801_10.png,cotton,['aphids'],cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/smartu_2_0801_11.png,cotton,['others'],cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/smartu_2_0801_12.png,cotton,['others'],chilli,"['Alternaria_Leaf_Spot', 'Jassids', 'Aphids']"
+/data/nagpur_data/imgs/cotton/smartu_2_0801_13.png,cotton,['others'],cotton,['Red_Cotton_Bug']
+/data/nagpur_data/imgs/cotton/smartu_2_0801_14.png,cotton,['aphids'],cotton,['Others']
+/data/nagpur_data/imgs/cotton/smartu_2_0801_15.png,cotton,['others'],cotton,"['Bacterial_Blight', 'Jassids']"
+/data/nagpur_data/imgs/cotton/smartu_2_0801_16.png,cotton,['others'],cotton,"['Jassids', 'Bacterial_Blight', 'Powdery_Mildew']"
+/data/nagpur_data/imgs/cotton/smartu_2_0801_17.png,cotton,['aphids'],cotton,['Powdery_Mildew']
+/data/nagpur_data/imgs/cotton/smartu_2_0801_2.png,cotton,['whitefly'],cotton,"['Bacterial_Blight', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/smartu_2_0801_3.png,cotton,['whitefly'],cotton,"['Bacterial_Blight', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/smartu_2_0801_4.png,cotton,['others'],cotton,['Others']
+/data/nagpur_data/imgs/cotton/smartu_2_0801_5.png,cotton,['others'],cotton,['Red_Cotton_Bug']
+/data/nagpur_data/imgs/cotton/smartu_2_0801_6.png,cotton,['whitefly'],cotton,"['Jassids', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/smartu_2_0801_7.png,cotton,['aphids'],cotton,"['Jassids', 'Others']"
+/data/nagpur_data/imgs/cotton/smartu_2_0801_8.png,cotton,"['aphids', 'whitefly']",cotton,['Aphids']
+/data/nagpur_data/imgs/cotton/smartu_2_0801_9.png,cotton,['aphids'],cotton,"['Aphids', 'Jassids', 'Powdery_Mildew']"
+/data/nagpur_data/imgs/maize/Chindwara_1_0601_1.png,maize,"['Fall_armyworm', 'Grasshopper']",others,['random']
+/data/nagpur_data/imgs/maize/ZARC_1_0701_1.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/ankur_2_0901_21.png,maize,['Others'],maize,['Others']
+/data/nagpur_data/imgs/maize/blight.png,maize,['Leaf_blight'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/brown spot on the leaf.png,maize,['Leaf_spot'],cotton,['Leaf_spot']
+/data/nagpur_data/imgs/maize/brown spots on the leaf.png,maize,['Leaf_spot'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/feeding damage of fallarmy worm.png,maize,['Fall_armyworm'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/maize/leaf streak.png,maize,['Streak'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/rust.png,maize,['Rust'],maize,"['Stem_Borer', 'Maydis_Leaf_Blight']"
+/data/nagpur_data/imgs/maize/scraping damage by fallarmy worm.png,maize,['Others'],maize,['Maydis_Leaf_Blight']
+/data/nagpur_data/imgs/maize/spot.png,maize,['Leaf_spot'],cotton,['Healthy']
+/data/nagpur_data/imgs/rice/testing.png,rice,"['bacterial_leaf_streak', 'brown_spot', 'downy_mildew']",cotton,['Healthy']
+/data/nagpur_data/imgs/maize/whitish spot on the leaf.png,maize,['Leaf_blight'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/zars _0701_5.png,maize,['Healthy'],sorghum,['healthy']
+/data/nagpur_data/imgs/maize/zars _0701_6.png,maize,['Others'],cotton,['Healthy']
+/data/nagpur_data/imgs/maize/zars_01_0701_10.png,maize,['Leaf_blight'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/zars_01_0701_11.png,maize,['Rust'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/maize/zars_01_0701_12.png,maize,"['Rust', 'Others']",cotton,['Leaf_beetle']
+/data/nagpur_data/imgs/maize/zars_01_0701_13.png,maize,['Fall_armyworm'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/maize/zars_01_0701_14.png,maize,['Fall_armyworm'],maize,['Maydis_Leaf_Blight']
+/data/nagpur_data/imgs/maize/zars_01_0701_15.png,maize,['Leaf_spot'],maize,['Maydis_Leaf_Blight']
+/data/nagpur_data/imgs/maize/zars_01_0701_16.png,maize,['Streak'],maize,['Streak']
+/data/nagpur_data/imgs/maize/zars_01_0701_17.png,maize,['Fall_armyworm'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/maize/zars_01_0701_18.png,maize,['Leaf_spot'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/maize/zars_01_0701_9.png,maize,['Leaf_blight'],maize,['Healthy']
+/data/nagpur_data/imgs/maize/zars_1_0701_7.png,maize,['Fall_armyworm'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/zars_1_0701_8_nitrogen_deficiency.png,maize,['Others'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/others/IMG_20250109_135440.jpg.png,others,['others'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/others/IMG_20250109_141317.jpg.png,others,['others'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/others/IMG_20250109_141319.jpg.png,others,['others'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/others/IMG_20250109_141326.jpg.png,others,['others'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/others/IMG_20250109_141323.jpg.png,others,['others'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/others/IMG_20250109_141337.jpg.png,others,['others'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/others/IMG_20250109_141341.jpg.png,others,['others'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/others/IMG_20250109_141417.jpg.png,others,['others'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/chilli/IMG_20250108_122923.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_122932.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips', 'Whitefly']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_123237.jpg.png,chilli,['Others'],chilli,['Healthy']
+/data/nagpur_data/imgs/chilli/IMG_20250108_123238.jpg.png,chilli,['Others'],chilli,['Healthy']
+/data/nagpur_data/imgs/chilli/IMG_20250108_123247.jpg.png,chilli,['Others'],chilli,['Healthy']
+/data/nagpur_data/imgs/chilli/IMG_20250108_123250.jpg.png,chilli,['Others'],chilli,['Others']
+/data/nagpur_data/imgs/chilli/IMG_20250108_123306.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_123318.jpg.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_123324.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/others/IMG_20250108_123849.jpg.png,others,['others'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_123907.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_123910.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_123916.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others', 'Thrips', 'Powdery_mildew']"
+/data/nagpur_data/imgs/chilli/IMG_2307.png.png,chilli,"['Leaf_curl', 'Thrips']",chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2308.png.png,chilli,"['Leaf_curl', 'Thrips']",chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2309.png.png,chilli,['Thrips'],chilli,"['Thrips', 'Others', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_2310.png.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2311.png.png,chilli,"['Thrips', 'Leaf_curl']",chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2313.png.png,chilli,"['Thrips', 'Leaf_curl']",chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2314.png.png,chilli,"['Leaf_curl', 'Powdery_mildew']",chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_135525.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Whitefly']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_135528.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Whitefly']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_135534.jpg.png,chilli,['Leaf_curl'],maize,"['Leaf_curl', 'Whitefly']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_135554.jpg.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Whitefly']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_135708.jpg.png,chilli,['Others'],chilli,"['Whitefly', 'Leaf_curl', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_135714.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Whitefly']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_140215.jpg.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_140228.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_140310.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_140323.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_140337.jpg.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_140349.jpg.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Whitefly']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_140407.jpg.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_140412.jpg.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_140422.jpg.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_140834.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_140838.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_140847.jpg.png,chilli,['Leaf_curl'],chilli,"['Thrips', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_140852.jpg.png,chilli,['Leaf_curl'],chilli,"['Thrips', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_140901.jpg.png,chilli,['Thrips'],chilli,"['Thrips', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_140917.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_140938.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Whitefly']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_140939.jpg.png,chilli,['Leaf_curl'],chilli,"['Whitefly', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_140941.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Whitefly']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_140947.jpg.png,chilli,"['Leaf_curl', 'Leaf_spot']",chilli,"['Leaf_curl', 'Thrips', 'Whitefly']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_140956.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_141022.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others', 'Whitefly']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_141025.jpg.png,chilli,['Leaf_curl'],chilli,"['Whitefly', 'Leaf_curl', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_141028.jpg.png,chilli,['Leaf_curl'],chilli,"['Whitefly', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_141031.jpg.png,chilli,['Leaf_curl'],chilli,"['Whitefly', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_141032.jpg.png,chilli,['Leaf_curl'],chilli,"['Whitefly', 'Leaf_curl', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_141034.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Whitefly', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_141038.jpg.png,chilli,['Healthy'],chilli,"['Leaf_curl', 'Whitefly', 'Others', 'Powdery_mildew']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_141040.jpg.png,chilli,['Leaf_curl'],chilli,"['Thrips', 'Others', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_141041.jpg.png,chilli,"['Leaf_curl', 'Powdery_mildew']",chilli,"['Thrips', 'Others', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_141046.jpg.png,chilli,['Leaf_curl'],chilli,"['Whitefly', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_141048.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Whitefly']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_141131.jpg.png,chilli,['Others'],chilli,['Healthy']
+/data/nagpur_data/imgs/chilli/IMG_20250109_141437.jpg.png,chilli,['Leaf_curl'],chilli,['Others']
+/data/nagpur_data/imgs/chilli/IMG_20250109_141449.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others', 'Whitefly']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_141453.jpg.png,chilli,['Leaf_curl'],chilli,['Healthy']
+/data/nagpur_data/imgs/chilli/IMG_20250109_141506.jpg.png,chilli,['Others'],chilli,['Healthy']
+/data/nagpur_data/imgs/chilli/IMG_20250108_120206.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips', 'Whitefly']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_120213.jpg.png,chilli,['Leaf_curl'],chilli,['Leaf_curl']
+/data/nagpur_data/imgs/chilli/IMG_20250108_120221.jpg.png,chilli,['Leaf_curl'],chilli,"['Thrips', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_120224.jpg.png,chilli,['Leaf_curl'],chilli,"['Thrips', 'Others', 'Powdery_mildew']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_120227.jpg.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_120232.jpg.png,chilli,['Powdery_mildew'],chilli,"['Others', 'Powdery_mildew', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_120234.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_120248.jpg.png,chilli,['Leaf_curl'],chilli,"['Others', 'Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_120321.jpg.png,chilli,['Leaf_curl'],chilli,"['Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_120337.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_120347.jpg.png,chilli,"['Leaf_curl', 'Thrips']",chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_120349.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_120359.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_120419.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_120446.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_120450.jpg.png,chilli,['Leaf_curl'],chilli,"['Thrips', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_120500.jpg.png,chilli,['Leaf_curl'],chilli,"['Thrips', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_120503.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_120521.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_120526.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_120529.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_120545.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_120601.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_120611.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_120614.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_120625.jpg.png,chilli,"['Leaf_curl', 'Powdery_mildew']",chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_120825.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_120905.jpg.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_120950.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_121024.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_121048.jpg.png,chilli,"['Leaf_curl', 'Thrips']",chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_121114.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_121201.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_121205.jpg.png,chilli,"['Leaf_curl', 'Leaf_spot']",chilli,"['Leaf_curl', 'Others', 'Thrips', 'Powdery_mildew']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_121214.jpg.png,chilli,['Leaf_curl'],chilli,['Leaf_curl']
+/data/nagpur_data/imgs/chilli/IMG_20250108_121301.jpg.png,chilli,"['Leaf_curl', 'Thrips']",chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_121311.jpg.png,chilli,"['Leaf_curl', 'Powdery_mildew']",chilli,"['Leaf_curl', 'Whitefly', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_121350.jpg.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_121410.jpg.png,chilli,"['Leaf_curl', 'Powdery_mildew']",chilli,"['Leaf_curl', 'Thrips', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_121515.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_121519.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_121540.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_121806.jpg.png,chilli,['Leaf_curl'],chilli,['Leaf_curl']
+/data/nagpur_data/imgs/chilli/IMG_20250108_121809.jpg.png,chilli,['Leaf_curl'],chilli,['Leaf_curl']
+/data/nagpur_data/imgs/chilli/IMG_20250108_121937.jpg.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_121940.jpg.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_121957.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_122019.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_122058.jpg.png,chilli,['Leaf_curl'],chilli,['Leaf_curl']
+/data/nagpur_data/imgs/chilli/IMG_20250108_122122.jpg.png,chilli,['Leaf_curl'],chilli,['Thrips']
+/data/nagpur_data/imgs/chilli/IMG_20250108_122133.jpg.png,chilli,['Others'],chilli,"['Leaf_curl', 'Whitefly']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_122203.jpg.png,chilli,['Others'],chilli,['Healthy']
+/data/nagpur_data/imgs/chilli/IMG_20250108_122219.jpg.png,chilli,['Others'],chilli,['Others']
+/data/nagpur_data/imgs/chilli/IMG_20250108_122226.jpg.png,chilli,['Others'],chilli,"['Leaf_curl', 'Whitefly']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_122901.jpg.png,chilli,['Others'],chilli,['Thrips']
+/data/nagpur_data/imgs/cotton/IMG_20250108_124935.jpg.png,cotton,['aphids'],cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_20250108_124938.jpg.png,cotton,['aphids'],cotton,"['Aphids', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_20250108_124946.jpg.png,cotton,['aphids'],cotton,"['Others', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_20250108_124950.jpg.png,cotton,['aphids'],cotton,"['Alternaria_Leaf_Spot', 'Others']"
+/data/nagpur_data/imgs/cotton/IMG_20250108_124958.jpg.png,cotton,['aphids'],cotton,['Others']
+/data/nagpur_data/imgs/cotton/IMG_20250108_125218.jpg.png,cotton,['whitefly'],cotton,"['Jassids', 'Others']"
+/data/nagpur_data/imgs/cotton/IMG_20250108_125227.jpg.png,cotton,['aphids'],cotton,['Powdery_Mildew']
+/data/nagpur_data/imgs/cotton/IMG_20250108_125243.jpg.png,cotton,"['aphids', 'whitefly']",cotton,['Aphids']
+/data/nagpur_data/imgs/cotton/IMG_20250108_125251.jpg.png,cotton,"['aphids', 'whitefly']",cotton,['Aphids']
+/data/nagpur_data/imgs/cotton/IMG_20250108_125539.jpg.png,cotton,['others'],cotton,['Red_Cotton_Bug']
+/data/nagpur_data/imgs/cotton/IMG_20250108_125545.jpg.png,cotton,['others'],cotton,['Others']
+/data/nagpur_data/imgs/cotton/IMG_2319.png.png,cotton,['others'],cotton,['Healthy']
+/data/nagpur_data/imgs/cotton/IMG_2320.png.png,cotton,['aphids'],cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_2321.png.png,cotton,['aphids'],cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_2322.png.png,cotton,['others'],cotton,['Alternaria_Leaf_Spot']
+/data/nagpur_data/imgs/cotton/IMG_2323.png.png,cotton,['others'],cotton,['Alternaria_Leaf_Spot']
+/data/nagpur_data/imgs/cotton/IMG_2324.png.png,cotton,['others'],cotton,['Others']
+/data/nagpur_data/imgs/cotton/IMG_2325.png.png,cotton,['others'],cotton,['Alternaria_Leaf_Spot']
+/data/nagpur_data/imgs/cotton/IMG_2326.png.png,cotton,['others'],cotton,"['Others', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_2327.png.png,cotton,['others'],cotton,['Others']
+/data/nagpur_data/imgs/cotton/IMG_2328.png.png,cotton,['others'],cotton,['Alternaria_Leaf_Spot']
+/data/nagpur_data/imgs/cotton/IMG_2329.png.png,cotton,['others'],cotton,"['Jassids', 'Whitefly', 'Others', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_2331.png.png,cotton,['others'],cotton,"['Whitefly', 'Jassids', 'Alternaria_Leaf_Spot', 'Others']"
+/data/nagpur_data/imgs/cotton/IMG_2332.png.png,cotton,['others'],cotton,['Alternaria_Leaf_Spot']
+/data/nagpur_data/imgs/cotton/IMG_2333.png.png,cotton,['others'],cotton,['Others']
+/data/nagpur_data/imgs/cotton/IMG_2338.png.png,cotton,['others'],cotton,['Alternaria_Leaf_Spot']
+/data/nagpur_data/imgs/cotton/IMG_2365.png.png,cotton,"['aphids', 'whitefly']",cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_2366.png.png,cotton,['others'],cotton,['Others']
+/data/nagpur_data/imgs/cotton/IMG_2362.png.png,cotton,"['aphids', 'whitefly']",cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_2363.png.png,cotton,"['aphids', 'whitefly', 'others']",cotton,"['Whitefly', 'Aphids']"
+/data/nagpur_data/imgs/cotton/IMG_2369.png.png,cotton,['others'],cotton,['Alternaria_Leaf_Spot']
+/data/nagpur_data/imgs/cotton/IMG_2372.png.png,cotton,['others'],cotton,['Alternaria_Leaf_Spot']
+/data/nagpur_data/imgs/cotton/IMG_2374.png.png,cotton,['others'],cotton,['Alternaria_Leaf_Spot']
+/data/nagpur_data/imgs/cotton/IMG_2376.png.png,cotton,['whitefly'],cotton,"['Whitefly', 'Others', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_2375.png.png,cotton,['others'],cotton,['Others']
+/data/nagpur_data/imgs/cotton/IMG_2378.png.png,cotton,['whitefly'],cotton,"['Whitefly', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_2379.png.png,cotton,['whitefly'],cotton,['Whitefly']
+/data/nagpur_data/imgs/cotton/IMG_2380.png.png,cotton,"['whitefly', 'others']",cotton,"['Whitefly', 'Bacterial_Blight']"
+/data/nagpur_data/imgs/cotton/IMG_2381.png.png,cotton,['whitefly'],cotton,"['Whitefly', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_2382.png.png,cotton,['whitefly'],cotton,"['Whitefly', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_2383.png.png,cotton,"['whitefly', 'others']",cotton,['Alternaria_Leaf_Spot']
+/data/nagpur_data/imgs/cotton/IMG_2385.png.png,cotton,"['whitefly', 'others']",cotton,"['Whitefly', 'Bacterial_Blight']"
+/data/nagpur_data/imgs/cotton/IMG_2386.png.png,cotton,['whitefly'],cotton,"['Aphids', 'Whitefly', 'Jassids']"
+/data/nagpur_data/imgs/cotton/IMG_2387.png.png,cotton,"['whitefly', 'aphids']",cotton,"['Whitefly', 'Aphids']"
+/data/nagpur_data/imgs/cotton/IMG_2390.png.png,cotton,['others'],cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_2392.png.png,cotton,['whitefly'],cotton,"['Whitefly', 'Bacterial_Blight']"
+/data/nagpur_data/imgs/cotton/IMG_2394.png.png,cotton,['whitefly'],cotton,"['Whitefly', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_2395.png.png,cotton,['aphids'],cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_2396.png.png,cotton,"['aphids', 'whitefly']",cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_2397.png.png,cotton,"['aphids', 'whitefly']",cotton,"['Whitefly', 'Aphids']"
+/data/nagpur_data/imgs/cotton/IMG_2398.png.png,cotton,['others'],cotton,"['Bacterial_Blight', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_2400.png.png,cotton,"['aphids', 'whitefly']",cotton,"['Whitefly', 'Aphids']"
+/data/nagpur_data/imgs/cotton/IMG_2402.png.png,cotton,"['aphids', 'whitefly']",cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_20250109_124223.jpg.png,cotton,"['aphids', 'whitefly']",cotton,['Aphids']
+/data/nagpur_data/imgs/cotton/IMG_20250109_124325.jpg.png,cotton,"['aphids', 'whitefly']",cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_2403.png.png,cotton,"['aphids', 'whitefly']",cotton,"['Aphids', 'Whitefly', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_20250109_124336.jpg.png,cotton,"['aphids', 'whitefly']",cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_2404.png.png,cotton,['others'],cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_20250109_124429.jpg.png,cotton,['others'],cotton,['Healthy']
+/data/nagpur_data/imgs/cotton/IMG_2405.png.png,cotton,"['aphids', 'whitefly']",cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_2406.png.png,cotton,['aphids'],cotton,"['Whitefly', 'Aphids']"
+/data/nagpur_data/imgs/cotton/IMG_2408.png.png,cotton,"['aphids', 'whitefly']",cotton,"['Aphids', 'Whitefly', 'Bacterial_Blight']"
+/data/nagpur_data/imgs/cotton/IMG_2410.png.png,cotton,['aphids'],cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_2411.png.png,cotton,"['aphids', 'others']",cotton,"['Aphids', 'Whitefly', 'Bacterial_Blight']"
+/data/nagpur_data/imgs/cotton/IMG_2412.png.png,cotton,"['aphids', 'whitefly']",cotton,"['Whitefly', 'Aphids']"
+/data/nagpur_data/imgs/cotton/IMG_2414.png.png,cotton,"['aphids', 'others']",cotton,['Alternaria_Leaf_Spot']
+/data/nagpur_data/imgs/cotton/IMG_2416.png.png,cotton,"['others', 'whitefly']",cotton,"['Whitefly', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_2417.png.png,cotton,"['others', 'whitefly']",cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_2419.png.png,cotton,['whitefly'],cotton,['Alternaria_Leaf_Spot']
+/data/nagpur_data/imgs/cotton/IMG_2421.png.png,cotton,['others'],cotton,"['Aphids', 'Whitefly', 'Jassids']"
+/data/nagpur_data/imgs/cotton/IMG_2422.png.png,cotton,['others'],cotton,"['Alternaria_Leaf_Spot', 'Bacterial_Blight']"
+/data/nagpur_data/imgs/cotton/IMG_2425.png.png,cotton,"['aphids', 'whitefly']",cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_2429.png.png,cotton,"['aphids', 'whitefly', 'others']",cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_2431.png.png,cotton,"['aphids', 'whitefly']",cotton,"['Aphids', 'Whitefly', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_2432.png.png,cotton,"['aphids', 'whitefly']",cotton,"['Whitefly', 'Aphids']"
+/data/nagpur_data/imgs/cotton/IMG_2472.png.png,cotton,['aphids'],cotton,['Aphids']
+/data/nagpur_data/imgs/cotton/IMG_2473.png.png,cotton,"['aphids', 'whitefly']",cotton,"['Whitefly', 'Aphids']"
+/data/nagpur_data/imgs/maize/IMG_20250107_152115.jpg.png,maize,['Leaf_spot'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/maize/IMG_20250107_152219.jpg.png,maize,['Corn_Yellowing'],maize,['Others']
+/data/nagpur_data/imgs/maize/IMG_20250107_153605.jpg.png,maize,['Corn_Yellowing'],maize,"['Leaf_spot', 'Maydis_Leaf_Blight']"
+/data/nagpur_data/imgs/maize/IMG_20250107_153629.jpg.png,maize,['Corn_Yellowing'],maize,['Streak']
+/data/nagpur_data/imgs/maize/IMG_20250107_153635.jpg.png,maize,['Corn_Yellowing'],maize,['Streak']
+/data/nagpur_data/imgs/maize/IMG_20250107_153657.jpg.png,maize,['Corn_Yellowing'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/maize/IMG_20250107_153709.jpg.png,maize,['Corn_Yellowing'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/maize/IMG_20250107_153720.jpg.png,maize,['Leaf_spot'],maize,"['Maydis_Leaf_Blight', 'Streak']"
+/data/nagpur_data/imgs/maize/IMG_20250107_153722.jpg.png,maize,['Leaf_spot'],maize,"['Streak', 'Maydis_Leaf_Blight']"
+/data/nagpur_data/imgs/maize/IMG_20250107_153735.jpg.png,maize,['Corn_Yellowing'],maize,['Healthy']
+/data/nagpur_data/imgs/maize/IMG_20250107_153740.jpg.png,maize,['Corn_Yellowing'],maize,['Streak']
+/data/nagpur_data/imgs/maize/IMG_20250107_153745.jpg.png,maize,['Corn_Yellowing'],maize,['Healthy']
+/data/nagpur_data/imgs/maize/IMG_20250107_153748.jpg.png,maize,['Leaf_spot'],maize,['Streak']
+/data/nagpur_data/imgs/maize/IMG_20250107_153817.jpg.png,maize,['Corn_Yellowing'],maize,['Healthy']
+/data/nagpur_data/imgs/maize/IMG_20250109_135050.jpg.png,maize,['Streak'],maize,"['Leaf_spot', 'Maize_Dwarf_Mosaic_Virus']"
+/data/nagpur_data/imgs/maize/IMG_20250109_134852.jpg.png,maize,['Leaf_spot'],maize,['Maydis_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_20250109_134902.jpg.png,maize,['Leaf_spot'],maize,"['Turcicum_Leaf_Blight', 'Leaf_spot']"
+/data/nagpur_data/imgs/maize/IMG_20250109_134919.jpg.png,maize,['Leaf_spot'],maize,['Healthy']
+/data/nagpur_data/imgs/maize/IMG_20250109_134941.jpg.png,maize,"['Leaf_spot', 'Streak']",maize,['Streak']
+/data/nagpur_data/imgs/maize/IMG_20250107_153823.jpg.png,maize,['Corn_Yellowing'],maize,['Maydis_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_20250109_134945.jpg.png,maize,['Leaf_spot'],maize,['Maydis_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_20250109_134959.jpg.png,maize,['Streak'],maize,['Maydis_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_20250109_135002.jpg.png,maize,['Streak'],maize,"['Streak', 'Maydis_Leaf_Blight']"
+/data/nagpur_data/imgs/maize/IMG_20250109_135042.jpg.png,maize,['Fall_armyworm'],maize,"['Healthy', 'Others']"
+/data/nagpur_data/imgs/maize/IMG_2474.png.png,maize,['Streak'],cotton,['Others']
+/data/nagpur_data/imgs/maize/IMG_2475.png.png,maize,['Streak'],cotton,['Others']
+/data/nagpur_data/imgs/maize/IMG_2476.png.png,maize,['Leaf_spot'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/maize/IMG_2477.png.png,maize,['Fall_armyworm'],maize,['Pink_Stem_Borer']
+/data/nagpur_data/imgs/maize/IMG_2478.png.png,maize,['Grasshopper'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/maize/IMG_2479.png.png,maize,['Grasshopper'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/maize/IMG_20250107_153850.jpg.png,maize,['Leaf_spot'],maize,['Healthy']
+/data/nagpur_data/imgs/maize/IMG_2480.png.png,maize,['Stem_borer'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_2481.png.png,maize,['Stem_borer'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_2482.png.png,maize,['Grasshopper'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/maize/IMG_2483.png.png,maize,['Grasshopper'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_2484.png.png,maize,['Grasshopper'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_2485.png.png,maize,['Grasshopper'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_2486.png.png,maize,['Grasshopper'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_2487.png.png,maize,['Grasshopper'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/maize/IMG_20250107_153939.jpg.png,maize,['Leaf_blight'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/maize/IMG_2488.png.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_2489.png.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_2490.png.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_2491.png.png,maize,['Fall_armyworm'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/maize/IMG_2492.png.png,maize,['Fall_armyworm'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/maize/IMG_2493.png.png,maize,['Fall_armyworm'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/maize/IMG_2494.png.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_2495.png.png,maize,['Fall_armyworm'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/maize/IMG_2496.png.png,maize,['Fall_armyworm'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/maize/IMG_20250107_153941.jpg.png,maize,['Leaf_blight'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/maize/IMG_2497.png.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_2498.png.png,maize,['Grasshopper'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_2501.png.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_2500.png.png,maize,['Grasshopper'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_2502.png.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_2504.png.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_2505.png.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_2506.png.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_2507.png.png,maize,['Streak'],maize,['Streak']
+/data/nagpur_data/imgs/maize/IMG_2508.png.png,maize,['Leaf_spot'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_20250107_153945.jpg.png,maize,['Leaf_spot'],maize,['Common_Rust']
+/data/nagpur_data/imgs/maize/IMG_2509.png.png,maize,['Grasshopper'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2510.png.png,maize,['Leaf_spot'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2511.png.png,maize,['Leaf_blight'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2512.png.png,maize,['Leaf_spot'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/maize/IMG_2513.png.png,maize,['Streak'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2515.png.png,maize,['Grasshopper'],maize,"['Stem_Borer', 'Maydis_Leaf_Blight']"
+/data/nagpur_data/imgs/maize/IMG_2516.png.png,maize,['Leaf_blight'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/maize/IMG_2517.png.png,maize,['Leaf_blight'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2518.png.png,maize,['Streak'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2519.png.png,maize,['Leaf_spot'],maize,['Maydis_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_20250107_153953.jpg.png,maize,['Others'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2520.png.png,maize,"['Leaf_spot', 'Streak']",maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2521.png.png,maize,['Leaf_spot'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/maize/IMG_2522.png.png,maize,['Leaf_spot'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/maize/IMG_2523.png.png,maize,['Leaf_blight'],maize,['Maydis_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2524.png.png,maize,['Leaf_blight'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/maize/IMG_2525.png.png,maize,['Leaf_spot'],maize,['Maydis_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2526.png.png,maize,['Leaf_spot'],maize,['Maydis_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2527.png.png,maize,['Leaf_blight'],maize,['Streak']
+/data/nagpur_data/imgs/maize/IMG_2528.png.png,maize,['Streak'],maize,['Streak']
+/data/nagpur_data/imgs/maize/IMG_2529.png.png,maize,['Streak'],maize,"['Stem_Borer', 'Maydis_Leaf_Blight']"
+/data/nagpur_data/imgs/maize/IMG_2530.png.png,maize,['Streak'],maize,"['Stem_Borer', 'Maydis_Leaf_Blight']"
+/data/nagpur_data/imgs/maize/IMG_20250107_153957.jpg.png,maize,['Leaf_blight'],maize,['Healthy']
+/data/nagpur_data/imgs/maize/IMG_2531.png.png,maize,['Streak'],maize,"['Stem_Borer', 'Maydis_Leaf_Blight']"
+/data/nagpur_data/imgs/maize/IMG_2532.png.png,maize,['Streak'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2533.png.png,maize,['Streak'],maize,"['Leaf_spot', 'Maydis_Leaf_Blight']"
+/data/nagpur_data/imgs/maize/IMG_2534.png.png,maize,['Streak'],maize,"['Streak', 'Maydis_Leaf_Blight']"
+/data/nagpur_data/imgs/maize/IMG_2535.png.png,maize,['Leaf_spot'],cotton,['Stem_Borer']
+/data/nagpur_data/imgs/maize/IMG_2536.png.png,maize,['Leaf_spot'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/maize/IMG_2537.png.png,maize,['Healthy'],maize,['Healthy']
+/data/nagpur_data/imgs/maize/IMG_2538.png.png,maize,['Leaf_spot'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/maize/IMG_2539.png.png,maize,['Healthy'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/maize/IMG_20250107_154028.jpg.png,maize,['Rust'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2540.png.png,maize,['Leaf_spot'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/maize/IMG_2541.png.png,maize,['Leaf_spot'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/maize/IMG_2542.png.png,maize,['Leaf_spot'],cotton,['Stem_Borer']
+/data/nagpur_data/imgs/maize/IMG_2543.png.png,maize,['Leaf_spot'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2544.png.png,maize,['Leaf_blight'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2545.png.png,maize,['Grasshopper'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/maize/IMG_2546.png.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_2547.png.png,maize,['Leaf_spot'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/maize/IMG_2548.png.png,maize,['Fall_armyworm'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/maize/IMG_2549.png.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_20250107_154040.jpg.png,maize,['Corn_Yellowing'],maize,['Healthy']
+/data/nagpur_data/imgs/maize/IMG_2550.png.png,maize,['Streak'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2551.png.png,maize,['Leaf_blight'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2552.png.png,maize,['Leaf_spot'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/maize/IMG_2553.png.png,maize,['Leaf_blight'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2554.png.png,maize,['Leaf_blight'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/maize/IMG_2555.png.png,maize,['Leaf_blight'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2556.png.png,maize,['Leaf_spot'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/maize/IMG_2557.png.png,maize,['Streak'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/maize/IMG_2558.png.png,maize,['Streak'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2559.png.png,maize,['Streak'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_20250107_154121.jpg.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_2560.png.png,maize,['Fall_armyworm'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2561.png.png,maize,['Fall_armyworm'],maize,"['Stem_Borer', 'Turcicum_Leaf_Blight']"
+/data/nagpur_data/imgs/maize/IMG_2562.png.png,maize,['Streak'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/maize/IMG_2563.png.png,maize,['Grasshopper'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/maize/IMG_2564.png.png,maize,['Leaf_spot'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2565.png.png,maize,['Leaf_spot'],maize,"['Stem_Borer', 'Turcicum_Leaf_Blight']"
+/data/nagpur_data/imgs/maize/IMG_2566.png.png,maize,['Leaf_spot'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2567.png.png,maize,['Leaf_spot'],maize,['Maydis_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2568.png.png,maize,['Grasshopper'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/maize/IMG_2569.png.png,maize,['Grasshopper'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_20250107_154133.jpg.png,maize,"['Corn_Yellowing', 'Leaf_spot']",maize,['Leaf_spot']
+/data/nagpur_data/imgs/maize/IMG_2570.png.png,maize,['Leaf_blight'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_20250107_154135.jpg.png,maize,['Corn_Yellowing'],maize,['Healthy']
+/data/nagpur_data/imgs/maize/IMG_20250107_154158.jpg.png,maize,['Leaf_blight'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_20250107_154250.jpg.png,maize,['Corn_Yellowing'],maize,['Healthy']
+/data/nagpur_data/imgs/maize/IMG_20250107_154424.jpg.png,maize,['Fall_armyworm'],maize,['Maydis_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_20250107_151522.jpg.png,maize,['Others'],maize,['Healthy']
+/data/nagpur_data/imgs/maize/IMG_20250107_130900.jpg.png,maize,['Leaf_blight'],maize,['Maydis_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_20250107_151542.jpg.png,maize,['Others'],others,['others']
+/data/nagpur_data/imgs/others/IMG_20250107_151545.jpg.png,others,['others'],others,['others']
+/data/nagpur_data/imgs/maize/IMG_20250107_152109.jpg.png,maize,['Others'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/others/IMG_20250109_141538.jpg.png,others,['others'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/others/IMG_20250109_141540.jpg.png,others,['others'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/others/IMG_20250109_141543.jpg.png,others,['others'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/others/IMG_20250109_141544.jpg.png,others,['others'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/others/IMG_20250109_141546.jpg.png,others,['others'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/maize/IMG_1979.png.png,maize,['Healthy'],maize,"['Healthy', 'Others']"
+/data/nagpur_data/imgs/maize/IMG_1975.png.png,maize,['Healthy'],maize,"['Healthy', 'Others']"
+/data/nagpur_data/imgs/maize/IMG_2085.png.png,maize,['Leaf_blight'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2087.png.png,maize,['Leaf_blight'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/maize/IMG_2125.png.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_2126.png.png,maize,['Others'],maize,"['Turcicum_Leaf_Blight', 'Others']"
+/data/nagpur_data/imgs/others/IMG_20250109_135430.jpg.png,others,['random'],maize,"['Turcicum_Leaf_Blight', 'Others']"
+/data/nagpur_data/imgs/others/IMG_20250109_135438.jpg.png,others,['random'],maize,"['Turcicum_Leaf_Blight', 'Others']"
+/data/nagpur_data/imgs/others/IMG_20250109_141549_1.jpg.png,others,['others'],maize,"['Turcicum_Leaf_Blight', 'Others']"
+/data/nagpur_data/imgs/others/IMG_20250109_141549.jpg.png,others,['others'],maize,"['Turcicum_Leaf_Blight', 'Others']"
+/data/nagpur_data/imgs/others/IMG_20250109_141552.jpg.png,others,['others'],maize,"['Turcicum_Leaf_Blight', 'Others']"
+/data/nagpur_data/imgs/others/IMG_20250109_141554.jpg.png,others,['others'],maize,"['Turcicum_Leaf_Blight', 'Others']"
+/data/nagpur_data/imgs/others/IMG_20250109_141555.jpg.png,others,['others'],maize,"['Turcicum_Leaf_Blight', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_141657.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_115554.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_120034.jpg.png,chilli,"['Leaf_curl', 'Thrips', 'Powdery_mildew']",chilli,"['Leaf_curl', 'Thrips', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_2577.png.png,chilli,['Thrips'],chilli,"['Thrips', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_2579.png.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2581.png.png,chilli,"['Thrips', 'Leaf_curl']",chilli,"['Thrips', 'Others', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_2583.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2576.png.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2585.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_2578.png.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2587.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2580.png.png,chilli,['Thrips'],chilli,['Thrips']
+/data/nagpur_data/imgs/chilli/IMG_2589.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2591.png.png,chilli,['Leaf_curl'],chilli,['Leaf_curl']
+/data/nagpur_data/imgs/chilli/IMG_2593.png.png,chilli,['Leaf_curl'],chilli,['Leaf_curl']
+/data/nagpur_data/imgs/chilli/IMG_2582.png.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2584.png.png,chilli,['Leaf_curl'],chilli,['Leaf_curl']
+/data/nagpur_data/imgs/chilli/IMG_2595.png.png,chilli,['Leaf_curl'],chilli,['Leaf_curl']
+/data/nagpur_data/imgs/chilli/IMG_20250108_120158.jpg.png,chilli,"['Leaf_curl', 'Silverleaf_whitefly']",chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_120027.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2597.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2586.png.png,chilli,"['Leaf_spot', 'Thrips']",chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2588.png.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2599.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2601.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Whitefly']"
+/data/nagpur_data/imgs/chilli/IMG_2590.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2592.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2603.png.png,chilli,['Leaf_curl'],chilli,"['Thrips', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_2594.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2605.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2607.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2598.png.png,chilli,['Leaf_spot'],chilli,"['Leaf_curl', 'Whitefly']"
+/data/nagpur_data/imgs/chilli/IMG_2600.png.png,chilli,"['Leaf_spot', 'Leaf_curl']",chilli,"['Leaf_curl', 'Whitefly']"
+/data/nagpur_data/imgs/chilli/IMG_2609.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2611.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2602.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Whitefly']"
+/data/nagpur_data/imgs/chilli/IMG_2604.png.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2613.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2606.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Whitefly']"
+/data/nagpur_data/imgs/chilli/IMG_2615.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_120138.jpg.png,chilli,['Leaf_curl'],chilli,"['Thrips', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_120216.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2617.png.png,chilli,"['Leaf_curl', 'Thrips']",chilli,"['Leaf_curl', 'Others', 'Thrips', 'Whitefly']"
+/data/nagpur_data/imgs/chilli/IMG_2608.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2610.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2619.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2612.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2621.png.png,chilli,['Healthy'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2614.png.png,chilli,"['Leaf_curl', 'Leaf_spot']",chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2623.png.png,chilli,"['Leaf_curl', 'Silverleaf_whitefly']",chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2616.png.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2625.png.png,chilli,['Leaf_curl'],chilli,"['Thrips', 'Others', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_2618.png.png,chilli,['Thrips'],chilli,"['Thrips', 'Leaf_curl', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_2622.png.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2627.png.png,chilli,['Leaf_curl'],chilli,"['Thrips', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_2629.png.png,chilli,['Leaf_curl'],chilli,['Leaf_curl']
+/data/nagpur_data/imgs/chilli/IMG_2624.png.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Whitefly', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_2631.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2626.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2628.png.png,chilli,"['Leaf_curl', 'Thrips']",chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2633.png.png,chilli,['Leaf_curl'],chilli,['Leaf_curl']
+/data/nagpur_data/imgs/chilli/IMG_20250108_122212.jpg.png,chilli,['Others'],chilli,['Healthy']
+/data/nagpur_data/imgs/chilli/IMG_20250108_120202.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2630.png.png,chilli,['Leaf_curl'],chilli,"['Whitefly', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_2635.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2632.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2637.png.png,chilli,['Leaf_curl'],chilli,['Leaf_curl']
+/data/nagpur_data/imgs/chilli/IMG_2634.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2639.png.png,chilli,"['Leaf_curl', 'Thrips']",chilli,"['Leaf_curl', 'Thrips', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_2641.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2636.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others', 'Whitefly']"
+/data/nagpur_data/imgs/chilli/IMG_2638.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2643.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2640.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2645.png.png,chilli,['Leaf_curl'],chilli,"['Thrips', 'Leaf_curl', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_2644.png.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Thrips', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_2642.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2647.png.png,chilli,"['Leaf_curl', 'Thrips']",chilli,"['Thrips', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_2649.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2651.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2646.png.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2648.png.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2653.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2650.png.png,chilli,['Leaf_spot'],chilli,"['Leaf_curl', 'Others', 'Whitefly']"
+/data/nagpur_data/imgs/chilli/IMG_2655.png.png,chilli,['Leaf_curl'],chilli,"['Others', 'Leaf_curl', 'Whitefly']"
+/data/nagpur_data/imgs/chilli/IMG_2657.png.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Thrips', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_2652.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2654.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2659.png.png,chilli,['Leaf_curl'],chilli,['Leaf_curl']
+/data/nagpur_data/imgs/chilli/IMG_2656.png.png,chilli,"['Thrips', 'Leaf_spot']",chilli,"['Others', 'Leaf_curl', 'Whitefly']"
+/data/nagpur_data/imgs/chilli/IMG_2661.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_2658.png.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2663.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Whitefly', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_2665.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2660.png.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2667.png.png,chilli,['Healthy'],chilli,['Healthy']
+/data/nagpur_data/imgs/chilli/IMG_2662.png.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Others', 'Whitefly']"
+/data/nagpur_data/imgs/chilli/IMG_2669.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_spot', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2664.png.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_2671.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2666.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2673.png.png,chilli,"['Leaf_curl', 'Powdery_mildew']",chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2668.png.png,chilli,['Leaf_curl'],chilli,['Leaf_curl']
+/data/nagpur_data/imgs/chilli/IMG_20250108_121027.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2670.png.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2675.png.png,chilli,"['Leaf_curl', 'Thrips']",chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2672.png.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2679.png.png,chilli,"['Leaf_curl', 'Thrips']",chilli,"['Thrips', 'Others', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_2674.png.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2681.png.png,chilli,"['Leaf_curl', 'Thrips']",chilli,"['Leaf_curl', 'Others', 'Whitefly']"
+/data/nagpur_data/imgs/chilli/IMG_2676.png.png,chilli,['Thrips'],chilli,"['Thrips', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_2678.png.png,chilli,['Thrips'],chilli,"['Whitefly', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_2680.png.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250108_123239.jpg.png,chilli,['Others'],chilli,['Healthy']
+/data/nagpur_data/imgs/chilli/IMG_20250109_135517.jpg.png,chilli,"['Thrips', 'Leaf_curl']",chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_135531.jpg.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Whitefly']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_135605.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Whitefly']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_135618.jpg.png,chilli,"['Healthy', 'Silverleaf_whitefly']",chilli,"['Leaf_curl', 'Whitefly', 'Powdery_mildew']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_135514.jpg.png,chilli,['Leaf_curl'],chilli,"['Thrips', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_135644.jpg.png,chilli,['Healthy'],chilli,"['Whitefly', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_135523.jpg.png,chilli,['Leaf_curl'],chilli,"['Whitefly', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_135551.jpg.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Whitefly']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_135724.jpg.png,chilli,['Others'],chilli,['Leaf_curl']
+/data/nagpur_data/imgs/chilli/IMG_20250109_135611.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Whitefly']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_140200.jpg.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_135620.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Whitefly']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_140211.jpg.png,chilli,"['Leaf_curl', 'Thrips']",chilli,"['Leaf_curl', 'Thrips', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_140235.jpg.png,chilli,"['Leaf_curl', 'Others']",chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_135711.jpg.png,chilli,['Others'],chilli,"['Leaf_curl', 'Whitefly', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_135727.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Whitefly']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_140304.jpg.png,chilli,"['Leaf_curl', 'Silverleaf_whitefly']",chilli,"['Thrips', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_141508.jpg.png,chilli,['Others'],chilli,['Healthy']
+/data/nagpur_data/imgs/chilli/IMG_20250109_140325.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Whitefly']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_140205.jpg.png,chilli,['Others'],chilli,"['Leaf_curl', 'Others', 'Whitefly']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_141658.jpg.png,chilli,['Healthy'],chilli,"['Leaf_curl', 'Others', 'Whitefly']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_141700.jpg.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Thrips', 'Whitefly']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_141703.jpg.png,chilli,['Healthy'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_140221.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_140341.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Whitefly']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_141705.jpg.png,chilli,['Healthy'],chilli,"['Leaf_curl', 'Thrips', 'Whitefly']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_141706.jpg.png,chilli,['Leaf_curl'],chilli,"['Thrips', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_141708.jpg.png,chilli,['Leaf_curl'],chilli,"['Whitefly', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_141712.jpg.png,chilli,['Leaf_curl'],chilli,"['Thrips', 'Whitefly', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_141714.jpg.png,chilli,"['Leaf_curl', 'Thrips']",chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_141718.jpg.png,chilli,['Healthy'],chilli,"['Others', 'Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_140246.jpg.png,chilli,['Others'],chilli,"['Thrips', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_140359.jpg.png,chilli,['Healthy'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_140836.jpg.png,chilli,['Leaf_curl'],chilli,['Thrips']
+/data/nagpur_data/imgs/chilli/IMG_20250109_140316.jpg.png,chilli,"['Leaf_curl', 'Thrips']",chilli,"['Thrips', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_140330.jpg.png,chilli,['Leaf_curl'],chilli,['Leaf_curl']
+/data/nagpur_data/imgs/chilli/IMG_20250109_140849.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_140352.jpg.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Whitefly']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_140417.jpg.png,chilli,['Thrips'],chilli,"['Thrips', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_140841.jpg.png,chilli,['Thrips'],chilli,"['Thrips', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_20250109_140850.jpg.png,chilli,['Thrips'],chilli,"['Whitefly', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_2169.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2171.png.png,chilli,['Leaf_curl'],chilli,"['Thrips', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_2173.png.png,chilli,['Leaf_curl'],chilli,['Leaf_curl']
+/data/nagpur_data/imgs/chilli/IMG_2175.png.png,chilli,['Leaf_curl'],chilli,"['Thrips', 'Others', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_2177.png.png,chilli,['Leaf_curl'],chilli,"['Thrips', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_2179.png.png,chilli,['Leaf_curl'],chilli,"['Thrips', 'Others', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_2182.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2184.png.png,chilli,['Leaf_curl'],chilli,"['Thrips', 'Leaf_curl', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_2186.png.png,chilli,"['Leaf_curl', 'Powdery_mildew']",chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2225.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2227.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2229.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2231.png.png,chilli,"['Leaf_curl', 'Powdery_mildew']",chilli,"['Thrips', 'Others', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_2233.png.png,chilli,"['Leaf_curl', 'Powdery_mildew']",chilli,"['Powdery_mildew', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_2235.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2237.png.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2239.png.png,chilli,['Leaf_curl'],chilli,"['Others', 'Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2241.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2243.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2245.png.png,chilli,['Leaf_curl'],chilli,"['Thrips', 'Others', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_2247.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2249.png.png,chilli,['Leaf_curl'],chilli,"['Thrips', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_2251.png.png,chilli,"['Leaf_curl', 'Powdery_mildew']",chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2253.png.png,chilli,['Thrips'],chilli,"['Thrips', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_2255.png.png,chilli,['Powdery_mildew'],chilli,"['Leaf_curl', 'Powdery_mildew', 'Thrips', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_2257.png.png,chilli,['Leaf_curl'],chilli,"['Thrips', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_2259.png.png,chilli,"['Leaf_curl', 'Thrips']",chilli,['Powdery_mildew']
+/data/nagpur_data/imgs/chilli/IMG_2270.png.png,chilli,['Leaf_curl'],chilli,"['Powdery_mildew', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_2261.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_2263.png.png,chilli,"['Leaf_curl', 'Powdery_mildew']",chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2272.png.png,chilli,"['Leaf_curl', 'Silverleaf_whitefly']",chilli,"['Leaf_curl', 'Others', 'Powdery_mildew', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2265.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_2275.png.png,chilli,"['Leaf_curl', 'Silverleaf_whitefly']",chilli,"['Leaf_curl', 'Others', 'Powdery_mildew', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2267.png.png,chilli,"['Leaf_curl', 'Thrips']",chilli,"['Leaf_curl', 'Thrips', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_2278.png.png,chilli,"['Leaf_curl', 'Silverleaf_whitefly']",chilli,"['Leaf_curl', 'Thrips', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_2269.png.png,chilli,"['Leaf_curl', 'Powdery_mildew']",chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2271.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others', 'Powdery_mildew', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2282.png.png,chilli,"['Leaf_curl', 'Silverleaf_whitefly']",chilli,"['Whitefly', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_2273.png.png,chilli,"['Leaf_curl', 'Powdery_mildew']",chilli,"['Leaf_curl', 'Others', 'Powdery_mildew', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2284.png.png,chilli,"['Leaf_curl', 'Silverleaf_whitefly']",chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2277.png.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2286.png.png,chilli,"['Leaf_curl', 'Silverleaf_whitefly']",chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2281.png.png,chilli,"['Thrips', 'Powdery_mildew']",chilli,"['Leaf_curl', 'Thrips', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_2294.png.png,chilli,"['Leaf_curl', 'Thrips']",chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2300.png.png,chilli,"['Leaf_curl', 'Thrips']",chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2283.png.png,chilli,"['Thrips', 'Powdery_mildew']",chilli,"['Leaf_curl', 'Others', 'Powdery_mildew', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2285.png.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Others', 'Powdery_mildew', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2289.png.png,chilli,['Leaf_curl'],chilli,"['Thrips', 'Leaf_curl', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_2298.png.png,chilli,"['Leaf_curl', 'Powdery_mildew', 'Thrips']",chilli,"['Leaf_curl', 'Powdery_mildew']"
+/data/nagpur_data/imgs/chilli/IMG_2168.png.png,chilli,['Leaf_curl'],chilli,['Healthy']
+/data/nagpur_data/imgs/chilli/IMG_2170.png.png,chilli,['Leaf_curl'],chilli,['Powdery_mildew']
+/data/nagpur_data/imgs/chilli/IMG_2172.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2174.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_2176.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2178.png.png,chilli,['Leaf_curl'],chilli,"['Thrips', 'Others', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_2180.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2183.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2185.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_2224.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2226.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2228.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2230.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2232.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2234.png.png,chilli,"['Leaf_curl', 'Thrips']",chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2236.png.png,chilli,['Leaf_curl'],chilli,['Leaf_curl']
+/data/nagpur_data/imgs/chilli/IMG_2238.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2240.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2242.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2244.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2246.png.png,chilli,"['Leaf_curl', 'Powdery_mildew', 'Thrips']",chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2248.png.png,chilli,['Leaf_curl'],chilli,"['Thrips', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_2250.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_spot', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2252.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2254.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2256.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2258.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2260.png.png,chilli,"['Leaf_curl', 'Thrips']",chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2262.png.png,chilli,['Leaf_curl'],chilli,"['Thrips', 'Leaf_curl', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_2264.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2266.png.png,chilli,['Leaf_curl'],chilli,"['Thrips', 'Others', 'Leaf_curl']"
+/data/nagpur_data/imgs/cotton/IMG_2435.png.png,cotton,"['aphids', 'whitefly']",cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_2426.png.png,cotton,"['whitefly', 'aphids']",cotton,"['Whitefly', 'Aphids', 'Bacterial_Blight']"
+/data/nagpur_data/imgs/cotton/IMG_2439.png.png,cotton,['whitefly'],cotton,"['Whitefly', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_2441.png.png,cotton,"['whitefly', 'aphids']",cotton,"['Whitefly', 'Aphids', 'Bacterial_Blight']"
+/data/nagpur_data/imgs/cotton/IMG_2430.png.png,cotton,['whitefly'],cotton,"['Whitefly', 'Bacterial_Blight', 'Others']"
+/data/nagpur_data/imgs/cotton/IMG_2443.png.png,cotton,['aphids'],cotton,"['Whitefly', 'Powdery_Mildew']"
+/data/nagpur_data/imgs/cotton/IMG_2434.png.png,cotton,"['whitefly', 'aphids']",cotton,"['Whitefly', 'Aphids']"
+/data/nagpur_data/imgs/cotton/IMG_2436.png.png,cotton,"['whitefly', 'aphids']",cotton,"['Whitefly', 'Aphids']"
+/data/nagpur_data/imgs/cotton/IMG_2445.png.png,cotton,['aphids'],cotton,"['Aphids', 'Whitefly', 'Powdery_Mildew']"
+/data/nagpur_data/imgs/cotton/IMG_2438.png.png,cotton,"['whitefly', 'aphids']",cotton,"['Aphids', 'Whitefly', 'Powdery_Mildew']"
+/data/nagpur_data/imgs/cotton/IMG_2447.png.png,cotton,"['others', 'whitefly']",cotton,"['Aphids', 'Whitefly', 'Jassids', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_2440.png.png,cotton,"['whitefly', 'aphids']",cotton,"['Whitefly', 'Aphids']"
+/data/nagpur_data/imgs/cotton/IMG_2449.png.png,cotton,['others'],cotton,['Jassids']
+/data/nagpur_data/imgs/cotton/IMG_2442.png.png,cotton,"['whitefly', 'aphids']",cotton,"['Whitefly', 'Aphids']"
+/data/nagpur_data/imgs/cotton/IMG_2451.png.png,cotton,['others'],cotton,"['Whitefly', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_2444.png.png,cotton,"['whitefly', 'aphids']",cotton,"['Whitefly', 'Powdery_Mildew']"
+/data/nagpur_data/imgs/cotton/IMG_2453.png.png,cotton,['others'],cotton,"['Aphids', 'Whitefly', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_2446.png.png,cotton,"['whitefly', 'aphids']",cotton,"['Aphids', 'Whitefly', 'Jassids']"
+/data/nagpur_data/imgs/cotton/IMG_2456.png.png,cotton,['whitefly'],cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_2448.png.png,cotton,['others'],cotton,['Others']
+/data/nagpur_data/imgs/cotton/IMG_2458.png.png,cotton,['aphids'],cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_2450.png.png,cotton,"['aphids', 'whitefly']",cotton,"['Aphids', 'Whitefly', 'Bacterial_Blight']"
+/data/nagpur_data/imgs/cotton/IMG_2460.png.png,cotton,['whitefly'],cotton,"['Aphids', 'Whitefly', 'Jassids']"
+/data/nagpur_data/imgs/cotton/IMG_2462.png.png,cotton,['aphids'],cotton,"['Aphids', 'Bacterial_Blight']"
+/data/nagpur_data/imgs/cotton/IMG_2452.png.png,cotton,['whitefly'],cotton,"['Whitefly', 'Bacterial_Blight']"
+/data/nagpur_data/imgs/cotton/IMG_2455.png.png,cotton,['whitefly'],cotton,['Alternaria_Leaf_Spot']
+/data/nagpur_data/imgs/cotton/IMG_2464.png.png,cotton,['aphids'],cotton,"['Aphids', 'Bacterial_Blight']"
+/data/nagpur_data/imgs/cotton/IMG_2466.png.png,cotton,"['aphids', 'whitefly']",cotton,"['Aphids', 'Whitefly', 'Powdery_Mildew']"
+/data/nagpur_data/imgs/cotton/IMG_2457.png.png,cotton,"['whitefly', 'aphids']",cotton,"['Whitefly', 'Aphids']"
+/data/nagpur_data/imgs/cotton/IMG_2459.png.png,cotton,"['whitefly', 'aphids']",cotton,"['Aphids', 'Whitefly', 'Jassids']"
+/data/nagpur_data/imgs/cotton/IMG_2468.png.png,cotton,"['aphids', 'whitefly']",cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_2470.png.png,cotton,['aphids'],cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_2461.png.png,cotton,"['whitefly', 'aphids']",cotton,"['Aphids', 'Whitefly', 'Jassids']"
+/data/nagpur_data/imgs/cotton/IMG_2463.png.png,cotton,"['whitefly', 'aphids']",cotton,"['Aphids', 'Bacterial_Blight']"
+/data/nagpur_data/imgs/cotton/IMG_2465.png.png,cotton,"['whitefly', 'aphids']",cotton,"['Whitefly', 'Aphids']"
+/data/nagpur_data/imgs/cotton/IMG_2467.png.png,cotton,"['whitefly', 'aphids']",cotton,"['Whitefly', 'Aphids']"
+/data/nagpur_data/imgs/cotton/IMG_2469.png.png,cotton,"['whitefly', 'aphids']",cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_2471.png.png,cotton,"['whitefly', 'aphids']",cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/maize/IMG_2572.png.png,maize,"['Fall_armyworm', 'Corn_Yellowing']",maize,['Streak']
+/data/nagpur_data/imgs/cotton/IMG_2393.png.png,cotton,['others'],cotton,"['Alternaria_Leaf_Spot', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_2401.png.png,cotton,['aphids'],cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_2409.png.png,cotton,['whitefly'],cotton,"['Whitefly', 'Aphids', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_2415.png.png,cotton,['others'],cotton,['Alternaria_Leaf_Spot']
+/data/nagpur_data/imgs/cotton/IMG_2391.png.png,cotton,['others'],cotton,"['Whitefly', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_2399.png.png,cotton,"['aphids', 'whitefly']",cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_2420.png.png,cotton,['others'],cotton,"['Aphids', 'Whitefly', 'Jassids', 'Bacterial_Blight']"
+/data/nagpur_data/imgs/cotton/IMG_2407.png.png,cotton,"['aphids', 'whitefly']",cotton,"['Whitefly', 'Aphids']"
+/data/nagpur_data/imgs/cotton/IMG_2424.png.png,cotton,['others'],cotton,"['Aphids', 'Whitefly', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_2413.png.png,cotton,"['aphids', 'whitefly']",cotton,"['stem_rot', 'Whitefly', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_2427.png.png,cotton,['whitefly'],cotton,['Whitefly']
+/data/nagpur_data/imgs/cotton/IMG_2418.png.png,cotton,['whitefly'],cotton,"['Whitefly', 'Aphids']"
+/data/nagpur_data/imgs/cotton/IMG_2428.png.png,cotton,"['whitefly', 'aphids']",cotton,"['Aphids', 'Whitefly', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_2423.png.png,cotton,['whitefly'],cotton,"['Whitefly', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_2433.png.png,cotton,"['aphids', 'others']",cotton,"['Whitefly', 'Aphids', 'Bacterial_Blight']"
+/data/nagpur_data/imgs/maize/IMG_20250107_151517.jpg.png,maize,['Others'],maize,['Healthy']
+/data/nagpur_data/imgs/maize/IMG_20250107_153611.jpg.png,maize,['Leaf_blight'],maize,"['Leaf_spot', 'Maydis_Leaf_Blight']"
+/data/nagpur_data/imgs/maize/IMG_20250107_154840.jpg.png,maize,['Leaf_blight'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_20250107_154926.jpg.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_20250107_154856.jpg.png,maize,['Corn_Yellowing'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2571.png.png,maize,['Streak'],maize,['Maydis_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2573.png.png,maize,['Streak'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2575.png.png,maize,['Leaf_spot'],maize,['Maydis_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_20250107_155224.jpg.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_2574.png.png,maize,['Fall_armyworm'],maize,['Maydis_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_20250109_135057.jpg.png,maize,['Leaf_spot'],maize,['Maydis_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_20250107_154215.jpg.png,maize,['Leaf_blight'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_20250107_153837.jpg.png,maize,['Streak'],maize,['Streak']
+/data/nagpur_data/imgs/maize/IMG_20250109_135137.jpg.png,maize,['Leaf_spot'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/maize/IMG_20250109_135223.jpg.png,maize,['Leaf_blight'],maize,['Maydis_Leaf_Blight']
+/data/nagpur_data/imgs/others/IMG_20250109_135436.jpg.png,others,['others'],maize,['Maydis_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_20250107_154531.jpg.png,maize,['Fall_armyworm'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/maize/IMG_20250107_154533.jpg.png,maize,['Leaf_spot'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/maize/IMG_20250107_130906.jpg.png,maize,['Leaf_blight'],maize,['Maydis_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_20250107_131353.jpg.png,maize,['Fall_armyworm'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/maize/IMG_2133.png.png,maize,['Fall_armyworm'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/maize/IMG_2135.png.png,maize,['Fall_armyworm'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2499.png.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_2503.png.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_2137.png.png,maize,['Stem_borer'],maize,"['Leaf_spot', 'Turcicum_Leaf_Blight']"
+/data/nagpur_data/imgs/maize/IMG_2514.png.png,maize,['Others'],maize,['Streak']
+/data/nagpur_data/imgs/maize/IMG_2139.png.png,maize,['Others'],maize,"['Turcicum_Leaf_Blight', 'Others']"
+/data/nagpur_data/imgs/maize/IMG_20250107_154550.jpg.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_2141.png.png,maize,['Leaf_spot'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/maize/IMG_2144.png.png,maize,['Leaf_spot'],maize,['Maydis_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2134.png.png,maize,['Fall_armyworm'],maize,['Maydis_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2136.png.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_2148.png.png,maize,['Fall_armyworm'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/maize/IMG_2138.png.png,maize,['Fall_armyworm'],maize,['Maydis_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2140.png.png,maize,['Fall_armyworm'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2150.png.png,maize,['Leaf_spot'],maize,['Maydis_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2152.png.png,maize,['Stem_borer'],maize,['Maydis_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2143.png.png,maize,['Fall_armyworm'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2145.png.png,maize,"['Fall_armyworm', 'Streak']",maize,['Leaf_spot']
+/data/nagpur_data/imgs/maize/IMG_2154.png.png,maize,['Stem_borer'],maize,['Maydis_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2147.png.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_2156.png.png,maize,['Leaf_blight'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2158.png.png,maize,['Others'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2149.png.png,maize,['Fall_armyworm'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/maize/IMG_2151.png.png,maize,['Leaf_spot'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/maize/IMG_20250107_154543.jpg.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_20250107_154657.jpg.png,maize,['Streak'],maize,"['Leaf_spot', 'Turcicum_Leaf_Blight']"
+/data/nagpur_data/imgs/maize/IMG_2153.png.png,maize,['Fall_armyworm'],maize,['Maydis_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2155.png.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_2157.png.png,maize,['Leaf_spot'],maize,['Maydis_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2159.png.png,maize,['Leaf_spot'],maize,['Maydis_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_20250107_154637.jpg.png,maize,['Leaf_spot'],maize,"['Turcicum_Leaf_Blight', 'Others']"
+/data/nagpur_data/imgs/maize/IMG_20250107_154808.jpg.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_20250107_154754.jpg.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_20250107_154818.jpg.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_20250107_154837.jpg.png,maize,['Leaf_blight'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_20250107_154815.jpg.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_20250107_154835.jpg.png,maize,['Leaf_blight'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_20250107_154851.jpg.png,maize,['Healthy'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_20250109_134750.jpg.png,maize,['Leaf_blight'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_20250109_135058.jpg.png,maize,['Streak'],maize,['Maydis_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_20250109_135217.jpg.png,maize,['Streak'],maize,['Banded_Leaf_and_Sheath_Blight']
+/data/nagpur_data/imgs/maize/IMG_20250107_131436.jpg.png,maize,['Corn_Yellowing'],sorghum,['Fall_Armyworm']
+/data/nagpur_data/imgs/chilli/93762559c0ec4d8a9fed6e0a4be58219.png.png,chilli,['Thrips'],chilli,['Others']
+/data/nagpur_data/imgs/chilli/IMG_2279.png.png,chilli,"['Leaf_curl', 'Powdery_mildew']",chilli,"['Leaf_curl', 'Others', 'Powdery_mildew', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2280.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others', 'Powdery_mildew', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2287.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others', 'Powdery_mildew', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2288.png.png,chilli,"['Leaf_curl', 'Thrips']",chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2290.png.png,chilli,"['Leaf_curl', 'Thrips']",chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2276.png.png,chilli,"['Leaf_curl', 'Others']",chilli,"['Thrips', 'Others', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG_2306.png.png,chilli,"['Leaf_curl', 'Powdery_mildew']",chilli,"['Leaf_curl', 'Powdery_mildew']"
+/data/nagpur_data/imgs/chilli/IMG_2312.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2291.png.png,chilli,"['Leaf_curl', 'Thrips']",chilli,"['Leaf_curl', 'Others', 'Powdery_mildew', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2292.png.png,chilli,"['Leaf_curl', 'Thrips']",chilli,"['Leaf_curl', 'Thrips', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_2293.png.png,chilli,"['Leaf_curl', 'Thrips']",chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2295.png.png,chilli,"['Leaf_curl', 'Others']",chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2296.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2297.png.png,chilli,['Leaf_curl'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2299.png.png,chilli,"['Leaf_curl', 'Thrips']",chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2301.png.png,chilli,"['Leaf_curl', 'Powdery_mildew']",chilli,"['Thrips', 'Leaf_curl', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG_2302.png.png,chilli,"['Leaf_curl', 'Powdery_mildew']",chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2303.png.png,chilli,['Leaf_curl'],chilli,['Leaf_curl']
+/data/nagpur_data/imgs/chilli/IMG_2304.png.png,chilli,"['Leaf_curl', 'Powdery_mildew']",chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG_2305.png.png,chilli,"['Leaf_curl', 'Powdery_mildew']",chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/cotton/IMG_20250108_125557.jpg.png,cotton,['others'],cotton,"['Jassids', 'Others', 'Red_Cotton_Bug']"
+/data/nagpur_data/imgs/cotton/IMG_20250108_125629.jpg.png,cotton,['others'],cotton,['Alternaria_Leaf_Spot']
+/data/nagpur_data/imgs/cotton/IMG_20250108_125723.jpg.png,cotton,['aphids'],cotton,['Aphids']
+/data/nagpur_data/imgs/cotton/IMG_20250108_125910.jpg.png,cotton,['whitefly'],cotton,"['Whitefly', 'Alternaria_Leaf_Spot', 'Others']"
+/data/nagpur_data/imgs/cotton/IMG_20250108_125914.jpg.png,cotton,['others'],cotton,['Others']
+/data/nagpur_data/imgs/cotton/IMG_20250108_130005.jpg.png,cotton,['others'],cotton,"['Red_Cotton_Bug', 'Others']"
+/data/nagpur_data/imgs/cotton/IMG_20250108_130049.jpg.png,cotton,['others'],cotton,"['Jassids', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_20250109_120256.jpg.png,cotton,['whitefly'],cotton,"['Whitefly', 'Jassids', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_20250109_120259.jpg.png,cotton,['whitefly'],cotton,"['Whitefly', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_20250109_120305.jpg.png,cotton,['whitefly'],cotton,"['Whitefly', 'Jassids', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_20250109_120316.jpg.png,cotton,"['whitefly', 'aphids']",cotton,"['Aphids', 'Whitefly', 'Powdery_Mildew']"
+/data/nagpur_data/imgs/cotton/IMG_20250109_120839.jpg.png,cotton,['others'],cotton,['Healthy']
+/data/nagpur_data/imgs/cotton/IMG_20250109_120905.jpg.png,cotton,"['aphids', 'whitefly']",cotton,"['Whitefly', 'Aphids', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_20250109_120934.jpg.png,cotton,"['aphids', 'whitefly']",cotton,"['Whitefly', 'Aphids', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_20250109_120936.jpg.png,cotton,"['aphids', 'whitefly']",cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_20250109_120948.jpg.png,cotton,"['aphids', 'whitefly']",cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_20250109_120953.jpg.png,cotton,"['aphids', 'whitefly']",cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_20250109_121004.jpg.png,cotton,['aphids'],cotton,"['Aphids', 'Whitefly', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_20250109_121022.jpg.png,cotton,"['aphids', 'whitefly']",cotton,"['Aphids', 'Whitefly', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_20250109_121029.jpg.png,cotton,['others'],cotton,"['Jassids', 'Alternaria_Leaf_Spot', 'Others']"
+/data/nagpur_data/imgs/cotton/IMG_20250109_121044.jpg.png,cotton,['others'],cotton,"['Jassids', 'Aphids']"
+/data/nagpur_data/imgs/cotton/IMG_20250109_121253.jpg.png,cotton,"['aphids', 'whitefly']",cotton,"['Aphids', 'Whitefly', 'Jassids']"
+/data/nagpur_data/imgs/cotton/IMG_20250109_121301.jpg.png,cotton,"['aphids', 'whitefly']",cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_20250109_121759.jpg.png,cotton,['others'],cotton,['Pink_Bollworm']
+/data/nagpur_data/imgs/cotton/IMG_20250109_121803.jpg.png,cotton,['others'],cotton,['Pink_Bollworm']
+/data/nagpur_data/imgs/cotton/IMG_20250109_121823.jpg.png,cotton,['others'],cotton,['Others']
+/data/nagpur_data/imgs/cotton/IMG_20250109_121923.jpg.png,cotton,['whitefly'],cotton,['Whitefly']
+/data/nagpur_data/imgs/cotton/IMG_20250109_121925.jpg.png,cotton,['whitefly'],cotton,['Whitefly']
+/data/nagpur_data/imgs/cotton/IMG_20250109_121928.jpg.png,cotton,['whitefly'],cotton,['Others']
+/data/nagpur_data/imgs/cotton/IMG_20250109_121933.jpg.png,cotton,['whitefly'],cotton,['Whitefly']
+/data/nagpur_data/imgs/cotton/IMG_20250109_121938.jpg.png,cotton,['whitefly'],cotton,['Whitefly']
+/data/nagpur_data/imgs/cotton/IMG_20250109_121954.jpg.png,cotton,['whitefly'],cotton,"['Whitefly', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_20250109_122006.jpg.png,cotton,['whitefly'],cotton,['Jassids']
+/data/nagpur_data/imgs/cotton/IMG_20250109_122018.jpg.png,cotton,['whitefly'],cotton,['Aphids']
+/data/nagpur_data/imgs/cotton/IMG_20250109_122024.jpg.png,cotton,['whitefly'],cotton,['Whitefly']
+/data/nagpur_data/imgs/cotton/IMG_20250109_122156.jpg.png,cotton,['whitefly'],cotton,['Healthy']
+/data/nagpur_data/imgs/cotton/IMG_20250109_122217.jpg.png,cotton,"['whitefly', 'aphids']",cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_20250109_122220.jpg.png,cotton,"['whitefly', 'aphids']",cotton,"['Whitefly', 'Aphids']"
+/data/nagpur_data/imgs/cotton/IMG_20250109_122346.jpg.png,cotton,['others'],cotton,['Jassids']
+/data/nagpur_data/imgs/cotton/IMG_20250109_122351.jpg.png,cotton,"['aphids', 'whitefly']",cotton,"['Aphids', 'Whitefly', 'Jassids', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_20250109_122415.jpg.png,cotton,['aphids'],cotton,"['Aphids', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_20250109_122441.jpg.png,cotton,['others'],cotton,"['Alternaria_Leaf_Spot', 'Jassids']"
+/data/nagpur_data/imgs/cotton/IMG_20250109_122506.jpg.png,cotton,['aphids'],cotton,['Alternaria_Leaf_Spot']
+/data/nagpur_data/imgs/cotton/IMG_20250109_122532.jpg.png,cotton,"['aphids', 'whitefly']",cotton,"['Aphids', 'Whitefly', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_20250109_122629.jpg.png,cotton,['others'],cotton,['Others']
+/data/nagpur_data/imgs/cotton/IMG_20250109_122650.jpg.png,cotton,['others'],cotton,['Others']
+/data/nagpur_data/imgs/cotton/IMG_20250109_123405.jpg.png,cotton,"['aphids', 'whitefly']",cotton,"['Aphids', 'Whitefly', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_20250109_123414.jpg.png,cotton,"['aphids', 'whitefly']",cotton,"['Aphids', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_20250109_123423.jpg.png,cotton,"['aphids', 'whitefly']",cotton,['Aphids']
+/data/nagpur_data/imgs/cotton/IMG_20250109_123430.jpg.png,cotton,['whitefly'],cotton,['Others']
+/data/nagpur_data/imgs/cotton/IMG_20250109_123459.jpg.png,cotton,['others'],cotton,['Healthy']
+/data/nagpur_data/imgs/cotton/IMG_20250109_123556.jpg.png,cotton,['others'],cotton,['Pink_Bollworm']
+/data/nagpur_data/imgs/cotton/IMG_20250109_123601.jpg.png,cotton,['others'],cotton,['Jassids']
+/data/nagpur_data/imgs/cotton/IMG_20250109_123608.jpg.png,cotton,['others'],cotton,['Others']
+/data/nagpur_data/imgs/cotton/IMG_20250109_123621.jpg.png,cotton,"['aphids', 'whitefly']",cotton,['Aphids']
+/data/nagpur_data/imgs/cotton/IMG_20250109_123628.jpg.png,cotton,"['aphids', 'whitefly']",cotton,"['Aphids', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_20250109_123644.jpg.png,cotton,"['aphids', 'whitefly']",cotton,"['Aphids', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_20250109_123709.jpg.png,cotton,"['aphids', 'whitefly']",cotton,"['Aphids', 'Whitefly', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_20250109_124432.jpg.png,cotton,"['aphids', 'whitefly']",cotton,"['Whitefly', 'Aphids']"
+/data/nagpur_data/imgs/cotton/IMG_20250109_124441.jpg.png,cotton,['others'],cotton,['Aphids']
+/data/nagpur_data/imgs/cotton/IMG_20250109_124445.jpg.png,cotton,"['aphids', 'whitefly']",cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/maize/IMG_20250109_133257.jpg.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_20250109_133302.jpg.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_20250109_133333.jpg.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_20250109_133337.jpg.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_20250109_133352.jpg.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_20250109_133417.jpg.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_20250109_133631.jpg.png,maize,['Fall_armyworm'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_20250109_134416.jpg.png,maize,['Healthy'],maize,['Healthy']
+/data/nagpur_data/imgs/maize/IMG_20250109_134420.jpg.png,maize,['Healthy'],maize,['Healthy']
+/data/nagpur_data/imgs/maize/IMG_20250109_134425.jpg.png,maize,['Healthy'],maize,['Maydis_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_20250109_134444.jpg.png,maize,['Corn_Yellowing'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_20250109_134532.jpg.png,maize,['Leaf_spot'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_20250109_134535.jpg.png,maize,['Leaf_spot'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_20250109_134717.jpg.png,maize,['Leaf_blight'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_20250109_134746.jpg.png,maize,['Streak'],maize,['Streak']
+/data/nagpur_data/imgs/maize/IMG_20250109_134801.jpg.png,maize,"['Streak', 'Leaf_blight']",maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_20250109_134808.jpg.png,maize,['Leaf_spot'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_20250109_134820.jpg.png,maize,['Fall_armyworm'],maize,['Healthy']
+/data/nagpur_data/imgs/maize/IMG_20250109_134824.jpg.png,maize,['Healthy'],maize,['Healthy']
+/data/nagpur_data/imgs/maize/IMG_20250109_134855.jpg.png,maize,['Leaf_spot'],maize,['Streak']
+/data/nagpur_data/imgs/maize/IMG_20250109_134859.jpg.png,maize,['Streak'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_20250109_134907.jpg.png,maize,['Leaf_spot'],maize,"['Turcicum_Leaf_Blight', 'Leaf_spot']"
+/data/nagpur_data/imgs/maize/IMG_20250109_134950.jpg.png,maize,"['Streak', 'Leaf_spot']",maize,['Streak']
+/data/nagpur_data/imgs/maize/IMG_20250109_135010.jpg.png,maize,['Leaf_blight'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/cotton/IMG_2330.png.png,cotton,['others'],cotton,"['Others', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_2334.png.png,cotton,['others'],cotton,['Alternaria_Leaf_Spot']
+/data/nagpur_data/imgs/cotton/IMG_2335.png.png,cotton,['others'],cotton,['Alternaria_Leaf_Spot']
+/data/nagpur_data/imgs/cotton/IMG_2336.png.png,cotton,['others'],cotton,"['Others', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_2337.png.png,cotton,['others'],cotton,['Alternaria_Leaf_Spot']
+/data/nagpur_data/imgs/cotton/IMG_2339.png.png,cotton,['others'],cotton,['Alternaria_Leaf_Spot']
+/data/nagpur_data/imgs/cotton/IMG_2340.png.png,cotton,['others'],cotton,['Bacterial_Blight']
+/data/nagpur_data/imgs/cotton/IMG_2341.png.png,cotton,['others'],cotton,['Alternaria_Leaf_Spot']
+/data/nagpur_data/imgs/cotton/IMG_2342.png.png,cotton,['others'],cotton,['Alternaria_Leaf_Spot']
+/data/nagpur_data/imgs/cotton/IMG_2343.png.png,cotton,['others'],cotton,['Pink_Bollworm']
+/data/nagpur_data/imgs/cotton/IMG_2344.png.png,cotton,['others'],cotton,['Bacterial_Blight']
+/data/nagpur_data/imgs/cotton/IMG_2345.png.png,cotton,['others'],cotton,"['Alternaria_Leaf_Spot', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_2346.png.png,cotton,['others'],cotton,"['Whitefly', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_2347.png.png,cotton,['others'],cotton,['Alternaria_Leaf_Spot']
+/data/nagpur_data/imgs/cotton/IMG_2348.png.png,cotton,['others'],cotton,['Alternaria_Leaf_Spot']
+/data/nagpur_data/imgs/cotton/IMG_2349.png.png,cotton,['others'],cotton,['Bacterial_Blight']
+/data/nagpur_data/imgs/cotton/IMG_2351.png.png,cotton,['whitefly'],cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_2350.png.png,cotton,['aphids'],cotton,['Aphids']
+/data/nagpur_data/imgs/cotton/IMG_2352.png.png,cotton,['whitefly'],cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_2353.png.png,cotton,['whitefly'],cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_2354.png.png,cotton,['whitefly'],cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_2355.png.png,cotton,['whitefly'],cotton,['Whitefly']
+/data/nagpur_data/imgs/cotton/IMG_2356.png.png,cotton,['whitefly'],cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_2357.png.png,cotton,['whitefly'],cotton,"['Whitefly', 'Aphids']"
+/data/nagpur_data/imgs/cotton/IMG_2358.png.png,cotton,['whitefly'],cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_2359.png.png,cotton,"['whitefly', 'aphids']",cotton,"['Aphids', 'Whitefly', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_2360.png.png,cotton,['whitefly'],cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_2361.png.png,cotton,"['whitefly', 'aphids']",cotton,['Aphids']
+/data/nagpur_data/imgs/cotton/IMG_2364.png.png,cotton,"['whitefly', 'aphids']",cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_2367.png.png,cotton,"['whitefly', 'others']",cotton,"['Alternaria_Leaf_Spot', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_2368.png.png,cotton,"['whitefly', 'others']",cotton,['Alternaria_Leaf_Spot']
+/data/nagpur_data/imgs/cotton/IMG_2370.png.png,cotton,['others'],cotton,"['Alternaria_Leaf_Spot', 'Others']"
+/data/nagpur_data/imgs/cotton/IMG_2371.png.png,cotton,['others'],cotton,['Alternaria_Leaf_Spot']
+/data/nagpur_data/imgs/cotton/IMG_2373.png.png,cotton,"['whitefly', 'aphids']",cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/cotton/IMG_2384.png.png,cotton,['whitefly'],cotton,"['Whitefly', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG_2388.png.png,cotton,"['whitefly', 'others']",cotton,"['Whitefly', 'Aphids']"
+/data/nagpur_data/imgs/cotton/IMG_2389.png.png,cotton,"['whitefly', 'aphids']",cotton,"['Aphids', 'Whitefly']"
+/data/nagpur_data/imgs/maize/IMG_1976.png.png,maize,"['Healthy', 'Others']",maize,"['Maydis_Leaf_Blight', 'others']"
+/data/nagpur_data/imgs/maize/IMG_1977.png.png,maize,"['Healthy', 'Others']",maize,"['Maydis_Leaf_Blight', 'others']"
+/data/nagpur_data/imgs/maize/IMG_1978.png.png,maize,"['Healthy', 'Others']",maize,"['Maydis_Leaf_Blight', 'others']"
+/data/nagpur_data/imgs/maize/IMG_1980.png.png,maize,"['Healthy', 'Others']",maize,"['Maydis_Leaf_Blight', 'others']"
+/data/nagpur_data/imgs/maize/IMG_1987.png.png,maize,['Fall_armyworm'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/maize/IMG_1988.png.png,maize,['Fall_armyworm'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/maize/IMG_1989.png.png,maize,['Fall_armyworm'],maize,['Stem_Borer']
+/data/nagpur_data/imgs/maize/IMG_2088.png.png,maize,['Leaf_spot'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/maize/IMG_2274.png.png,maize,['Leaf_spot'],chilli,"['Leaf_curl', 'Others']"
+/data/nagpur_data/imgs/maize/IMG_2086.png.png,maize,['Rust'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/maize/IMG_2089.png.png,maize,['Leaf_spot'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/maize/IMG_2090.png.png,maize,['Leaf_spot'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2091.png.png,maize,['Streak'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2092.png.png,maize,['Leaf_spot'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/maize/IMG_2093.png.png,maize,['Leaf_spot'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/maize/IMG_2094.png.png,maize,['Leaf_blight'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2095.png.png,maize,['Leaf_blight'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2096.png.png,maize,['Leaf_blight'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2097.png.png,maize,['Healthy'],maize,['Healthy']
+/data/nagpur_data/imgs/maize/IMG_2098.png.png,maize,['Leaf_blight'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2101.png.png,maize,['Leaf_spot'],maize,"['Turcicum_Leaf_Blight', 'Leaf_spot']"
+/data/nagpur_data/imgs/maize/IMG_2102.png.png,maize,['Leaf_blight'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2103.png.png,maize,['Leaf_blight'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2104.png.png,maize,['Leaf_blight'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2105.png.png,maize,['Leaf_blight'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2106.png.png,maize,['Leaf_spot'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/maize/IMG_2108.png.png,maize,['Leaf_spot'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2109.png.png,maize,['Leaf_spot'],maize,"['Stem_Borer', 'Healthy']"
+/data/nagpur_data/imgs/maize/IMG_2110.png.png,maize,['Leaf_spot'],maize,"['Leaf_spot', 'Turcicum_Leaf_Blight']"
+/data/nagpur_data/imgs/maize/IMG_2111.png.png,maize,['Leaf_spot'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/maize/IMG_2112.png.png,maize,['Healthy'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/maize/IMG_2113.png.png,maize,['Leaf_spot'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2114.png.png,maize,['Leaf_spot'],maize,"['Leaf_spot', 'Others']"
+/data/nagpur_data/imgs/maize/IMG_2115.png.png,maize,['Leaf_blight'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2116.png.png,maize,['Leaf_blight'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2117.png.png,maize,['Leaf_blight'],maize,['Maydis_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2118.png.png,maize,['Leaf_blight'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2119.png.png,maize,['Leaf_blight'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2120.png.png,maize,['Leaf_spot'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2121.png.png,maize,['Leaf_spot'],maize,['Leaf_spot']
+/data/nagpur_data/imgs/maize/IMG_2142.png.png,maize,['Healthy'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2122.png.png,maize,['Leaf_spot'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2123.png.png,maize,['Leaf_spot'],maize,['Leaf_beetle']
+/data/nagpur_data/imgs/maize/IMG_2124.png.png,maize,['Leaf_blight'],maize,['Fall_Armyworm']
+/data/nagpur_data/imgs/maize/IMG_2127.png.png,maize,"['Others', 'Leaf_blight']",maize,"['Others', 'Turcicum_Leaf_Blight']"
+/data/nagpur_data/imgs/maize/IMG_2128.png.png,maize,"['Others', 'Leaf_blight']",maize,"['Others', 'Turcicum_Leaf_Blight']"
+/data/nagpur_data/imgs/maize/IMG_2129.png.png,maize,['Healthy'],maize,['Healthy']
+/data/nagpur_data/imgs/maize/IMG_2130.png.png,maize,['Leaf_blight'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2131.png.png,maize,['Leaf_blight'],maize,['Turcicum_Leaf_Blight']
+/data/nagpur_data/imgs/maize/IMG_2132.png.png,maize,['Healthy'],maize,['Healthy']
+/data/nagpur_data/imgs/chilli/IMG20250108121318.jpg.png,chilli,['Others'],chilli,['Powdery_mildew']
+/data/nagpur_data/imgs/chilli/IMG20250108121523.jpg.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Others', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG20250108121624.jpg.png,chilli,['Healthy'],chilli,"['Thrips', 'Others', 'Leaf_curl']"
+/data/nagpur_data/imgs/chilli/IMG20250108121937.jpg.png,chilli,['Thrips'],chilli,"['Leaf_curl', 'Thrips']"
+/data/nagpur_data/imgs/chilli/IMG20250108122443.jpg.png,chilli,['Others'],others,['others']
+/data/nagpur_data/imgs/chilli/IMG20250108122715.jpg.png,chilli,['Others'],others,['others']
+/data/nagpur_data/imgs/chilli/IMG20250108122854.jpg.png,chilli,['Thrips'],chilli,"['Thrips', 'Leaf_curl', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG20250108123130.jpg.png,chilli,['Others'],others,['others']
+/data/nagpur_data/imgs/chilli/IMG20250108123209.jpg.png,chilli,['Thrips'],chilli,"['Thrips', 'Leaf_curl', 'Others']"
+/data/nagpur_data/imgs/chilli/IMG20250108123410.jpg.png,chilli,['Others'],chilli,['Leaf_curl']
+/data/nagpur_data/imgs/cotton/IMG20250108124710.jpg.png,cotton,['others'],cotton,['Red_Cotton_Bug']
+/data/nagpur_data/imgs/cotton/IMG20250108125747.jpg.png,cotton,['aphids'],cotton,"['Aphids', 'Whitefly', 'Powdery_Mildew']"
+/data/nagpur_data/imgs/cotton/IMG20250108125810.jpg.png,cotton,['others'],cotton,"['Aphids', 'Whitefly', 'Powdery_Mildew']"
+/data/nagpur_data/imgs/cotton/IMG20250108124813.jpg.png,cotton,['whitefly'],cotton,"['Aphids', 'Alternaria_Leaf_Spot']"
+/data/nagpur_data/imgs/cotton/IMG20250108124848.jpg.png,cotton,['whitefly'],cotton,['Alternaria_Leaf_Spot']
+/data/nagpur_data/imgs/cotton/524bbc90434e4a589246b593e4fe80e2.png.png,cotton,['others'],cotton,['Others']
+/data/nagpur_data/imgs/cotton/IMG20250108125708.jpg.png,cotton,"['whitefly', 'aphids']",cotton,"['Aphids', 'Whitefly', 'Jassids']"
+/data/nagpur_data/imgs/cotton/IMG20250108125721.jpg.png,cotton,['aphids'],cotton,"['Whitefly', 'Alternaria_Leaf_Spot', 'Powdery_Mildew']"
+/data/nagpur_data/imgs/maize/fb19160f9bac429c9cd8f3b75ccee1ff.png.png,maize,['Others'],maize,['Healthy']
