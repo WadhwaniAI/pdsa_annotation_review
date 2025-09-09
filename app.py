@@ -67,6 +67,37 @@ def get_issue_name_by_id(crop_name: str, issue_id: str) -> str:
         return ""
     return LABELS[crop_name].get(issue_id, "")
 
+def check_review_exists(image_path: str) -> dict:
+    """Check if a review exists for the given image path"""
+    try:
+        # Create the expected JSON filename
+        safe_filename = image_path.replace("/", "_").replace("\\", "_")
+        if safe_filename.endswith(('.png', '.jpg', '.jpeg', '.bmp', '.tiff')):
+            safe_filename = safe_filename.rsplit('.', 1)[0]
+        json_filename = f"{safe_filename}.json"
+        json_path = os.path.join(OUTPUT_DIR, json_filename)
+        
+        if os.path.exists(json_path):
+            # Load the review data
+            with open(json_path, 'r') as f:
+                review_data = json.load(f)
+            
+            return {
+                'exists': True,
+                'reviewer': review_data.get('reviewer_username', 'Unknown'),
+                'timestamp': review_data.get('review_timestamp', ''),
+                'selected_annotation': review_data.get('selected_annotation', ''),
+                'reviewer_crop': review_data.get('reviewer_crop', ''),
+                'reviewer_labels': review_data.get('reviewer_labels', ''),
+                'comments': review_data.get('comments', '')
+            }
+        else:
+            return {'exists': False}
+            
+    except Exception as e:
+        print(f"Error checking review: {e}")
+        return {'exists': False, 'error': str(e)}
+
 # Session management
 active_sessions = {}
 
@@ -118,7 +149,7 @@ def format_labels_for_display(labels: List[str]) -> str:
         return "No labels"
     return ", ".join(labels)
 
-def resize_image(image_path: str, max_size: int = 512) -> str:
+def resize_image(image_path: str, max_size: int = 640) -> str:
     """Resize image to keep longest side at max_size pixels"""
     try:
         if not os.path.exists(image_path):
@@ -215,7 +246,8 @@ def login_interface(username: str, password: str):
             gr.update(visible=True),   # Keep login visible
             gr.update(visible=False),  # Hide main interface
             "",
-            "Error: No users configured. Please check users.json file."
+            "Error: No users configured. Please check users.json file.",
+            gr.update(value="**User:** Not logged in")
         )
     
     if authenticate(username, password):
@@ -224,14 +256,16 @@ def login_interface(username: str, password: str):
             gr.update(visible=False),  # Hide login
             gr.update(visible=True),   # Show main interface
             session_token,
-            f"Welcome, {username}!"
+            f"Welcome, {username}!",
+            gr.update(value=f"**User:** {username}")
         )
     else:
         return (
             gr.update(visible=True),   # Keep login visible
             gr.update(visible=False),  # Hide main interface
             "",
-            "Invalid credentials. Please try again."
+            "Invalid credentials. Please try again.",
+            gr.update(value="**User:** Not logged in")
         )
 
 def load_annotation_data(session_token: str, index: int):
@@ -244,29 +278,40 @@ def load_annotation_data(session_token: str, index: int):
     if df.empty:
         return "No annotations found.", None, None, None, None, None, None
     
-    if index >= len(df):
+    # Convert natural number (1-based) to 0-based index
+    actual_index = index - 1
+    
+    if actual_index < 0 or actual_index >= len(df):
         return f"Index {index} out of range. Total annotations: {len(df)}", None, None, None, None, None, None
     
-    annotation = get_current_annotation(df, index)
+    annotation = get_current_annotation(df, actual_index)
     if not annotation:
         return "Error loading annotation.", None, None, None, None, None, None
     
-    # Update session with current index
-    session["current_index"] = index
+    # Update session with current index (store 0-based for internal use)
+    session["current_index"] = actual_index
     
     # Display image if it exists (resized)
     image_display = None
     if os.path.exists(annotation["image_path"]):
         image_display = resize_image(annotation["image_path"])
     
+    # Check if review exists for this image
+    review_info = check_review_exists(annotation["image_path"])
+    if review_info['exists']:
+        review_status_text = f"✅ **Review exists**\n**Reviewed by:** {review_info['reviewer']}\n**Date:** {review_info['timestamp'][:10] if review_info['timestamp'] else 'Unknown'}\n**Selected:** {review_info['selected_annotation']}"
+    else:
+        review_status_text = "❌ **No review found**"
+    
     return (
         f"Annotation {index + 1} of {len(df)}",
+        review_status_text,
         image_display,
         annotation["crop1"],
         format_labels_for_display(annotation["label1"]),
         annotation["crop2"],
         format_labels_for_display(annotation["label2"]),
-        gr.update(choices=["label1", "label2"], value="label1"),
+        gr.update(choices=["Annotation Round 1", "Annotation Round 2"], value="Annotation Round 1"),
         annotation["crop1"],  # current_crop_display
         format_labels_for_display(annotation["label1"]),  # current_label_display
         annotation["crop1"],  # reviewer_crop (hidden)
@@ -284,7 +329,7 @@ def on_annotation_selection_change(selected_annotation: str, session_token: str)
     if df.empty:
         return "No data loaded.", gr.update(), gr.update()
     
-    index = session["current_index"]
+    index = session["current_index"]  # This is already 0-based
     if index >= len(df):
         return "Invalid index.", gr.update(), gr.update()
     
@@ -292,7 +337,7 @@ def on_annotation_selection_change(selected_annotation: str, session_token: str)
     if not annotation:
         return "Error loading annotation.", gr.update(), gr.update()
     
-    if selected_annotation == "label1":
+    if selected_annotation == "Annotation Round 1":
         crop_name = annotation["crop1"]
         label_name = format_labels_for_display(annotation["label1"])
     else:
@@ -343,7 +388,7 @@ def update_issue_dropdown(crop_name: str):
     issue_choices = get_issue_names(crop_name)
     return gr.update(choices=issue_choices, value=[])
 
-def save_annotation_review(selected_annotation: str, reviewer_crop: str, reviewer_label: list, comments: str, session_token: str):
+def save_annotation_review(selected_annotation: str, reviewer_crop: str, reviewer_label: list, comments: str, session_token: str,):
     """Save the annotation review"""
     session = verify_session(session_token)
     if not session:
@@ -353,7 +398,7 @@ def save_annotation_review(selected_annotation: str, reviewer_crop: str, reviewe
     if df.empty:
         return "No annotations loaded."
     
-    index = session["current_index"]
+    index = session["current_index"]  # This is already 0-based
     if index >= len(df):
         return "Invalid annotation index."
     
@@ -366,82 +411,104 @@ def save_annotation_review(selected_annotation: str, reviewer_crop: str, reviewe
     if not reviewer_crop.strip() or not reviewer_label_str.strip():
         return "Please provide both crop name and at least one issue."
     
-    result = save_reviewed_annotation(df, index, selected_annotation, reviewer_crop, reviewer_label_str, comments, session_token)
+    result = save_reviewed_annotation(df, index, selected_annotation, reviewer_crop, reviewer_label_str, comments, session_token,)
     return result
 
 def next_annotation(session_token: str):
     """Move to next annotation"""
     session = verify_session(session_token)
     if not session:
-        return 0, "Session expired."
+        return 1, "Session expired."
     
     df = load_annotations()
     if df.empty:
-        return 0, "No annotations loaded."
+        return 1, "No annotations loaded."
     
-    current_index = session["current_index"]
+    current_index = session["current_index"]  # 0-based
     next_index = min(current_index + 1, len(df) - 1)
     session["current_index"] = next_index
     
-    return next_index, f"Moved to annotation {next_index + 1}"
+    return next_index + 1, f"Moved to annotation {next_index + 1}"  # Return 1-based for display
 
 def previous_annotation(session_token: str):
     """Move to previous annotation"""
     session = verify_session(session_token)
     if not session:
-        return 0, "Session expired."
+        return 1, "Session expired."
     
     df = load_annotations()
     if df.empty:
-        return 0, "No annotations loaded."
+        return 1, "No annotations loaded."
     
-    current_index = session["current_index"]
+    current_index = session["current_index"]  # 0-based
     prev_index = max(current_index - 1, 0)
     session["current_index"] = prev_index
     
-    return prev_index, f"Moved to annotation {prev_index + 1}"
+    return prev_index + 1, f"Moved to annotation {prev_index + 1}"  # Return 1-based for display
 
 # Create Gradio Interface
 def create_interface():
     with gr.Blocks(title="Annotation Review Tool", theme=gr.themes.Soft()) as app:
-        gr.Markdown("# 🌾 PDSA Annotation Review Tool")
-        gr.Markdown("Review and verify crop annotations with authentication")
+        with gr.Row():
+            with gr.Column(scale=4):
+                gr.Markdown("# 🌾 PDSA Annotation Review Tool", elem_classes="center-align")
+                # gr.Markdown("Review and verify crop annotations with authentication")
+            with gr.Column(scale=1):
+                username_display = gr.Markdown("**User:** Not logged in", elem_classes="username-display")
         
         # Session token (hidden)
         session_token = gr.State("")
         
         # Login Interface
         with gr.Row(visible=True) as login_row:
-            with gr.Column():
+            with gr.Column(scale=1):
+                pass  # Empty column for centering
+            with gr.Column(scale=4):
                 gr.Markdown("## Login")
-                username_input = gr.Textbox(label="Username", placeholder="Enter username")
-                password_input = gr.Textbox(label="Password", type="password", placeholder="Enter password")
-                login_btn = gr.Button("Login", variant="primary")
+                username_input = gr.Textbox(label="Username", placeholder="Enter username", scale=1)
+                password_input = gr.Textbox(label="Password", type="password", placeholder="Enter password", scale=1)
+                login_btn = gr.Button("Login", variant="primary", scale=1)
                 login_status = gr.Markdown("")
+            with gr.Column(scale=2):
+                pass  # Empty column for centering
         
         # Main Interface
         with gr.Row(visible=False) as main_row:
+            with gr.Column(scale=2):
+                gr.Markdown("## Image and Annotations")
+                image_display = gr.Image(label="Image", type="filepath")
+                
+                with gr.Row():
+                    with gr.Column():
+                        gr.Markdown("### Annotation Round 1")
+                        crop1_display = gr.Textbox(label="Crop 1", interactive=False)
+                        label1_display = gr.Textbox(label="Label 1", interactive=False)
+                    
+                    with gr.Column():
+                        gr.Markdown("### Annotation Round 2")
+                        crop2_display = gr.Textbox(label="Crop 2", interactive=False)
+                        label2_display = gr.Textbox(label="Label 2", interactive=False)
+            
             with gr.Column(scale=1):
                 gr.Markdown("## Navigation")
                 current_status = gr.Markdown("")
+                review_status = gr.Markdown("", elem_classes="review-status")
                 
                 with gr.Row():
                     prev_btn = gr.Button("← Previous", variant="secondary")
                     next_btn = gr.Button("Next →", variant="secondary")
                 
-                index_input = gr.Number(label="Go to Index", value=0, precision=0)
+                index_input = gr.Number(label="Go to Index", value=1, precision=0, minimum=1)
                 load_btn = gr.Button("Load Annotation", variant="primary")
                 
                 gr.Markdown("## Review")
                 annotation_selector = gr.Radio(
-                    choices=["label1", "label2"], 
+                    choices=["Annotation Round 1", "Annotation Round 2"], 
                     label="Select Annotation Set",
-                    value="label1"
+                    value="Annotation Round 1"
                 )
                 
-                with gr.Row():
-                    edit_btn = gr.Button("Edit Annotations", variant="secondary")
-                    submit_btn = gr.Button("Submit Review", variant="primary")
+                edit_btn = gr.Button("Edit Annotations", variant="secondary")
                 
                 # Read-only display of current values
                 current_crop_display = gr.Textbox(
@@ -479,34 +546,20 @@ def create_interface():
                     visible=False
                 )
                 
+                submit_btn = gr.Button("Submit Review", variant="primary")
                 save_status = gr.Markdown("")
-            
-            with gr.Column(scale=2):
-                gr.Markdown("## Image and Annotations")
-                image_display = gr.Image(label="Image", type="filepath")
-                
-                with gr.Row():
-                    with gr.Column():
-                        gr.Markdown("### Annotation Set 1")
-                        crop1_display = gr.Textbox(label="Crop 1", interactive=False)
-                        label1_display = gr.Textbox(label="Label 1", interactive=False)
-                    
-                    with gr.Column():
-                        gr.Markdown("### Annotation Set 2")
-                        crop2_display = gr.Textbox(label="Crop 2", interactive=False)
-                        label2_display = gr.Textbox(label="Label 2", interactive=False)
         
         # Event Handlers
         login_btn.click(
             login_interface,
             inputs=[username_input, password_input],
-            outputs=[login_row, main_row, session_token, login_status]
+            outputs=[login_row, main_row, session_token, login_status, username_display]
         )
         
         load_btn.click(
             load_annotation_data,
             inputs=[session_token, index_input],
-            outputs=[current_status, image_display, crop1_display, label1_display, 
+            outputs=[current_status, review_status, image_display, crop1_display, label1_display, 
                     crop2_display, label2_display, annotation_selector, current_crop_display, 
                     current_label_display, reviewer_crop, reviewer_label, comments]
         )
@@ -546,7 +599,7 @@ def create_interface():
         ).then(
             load_annotation_data,
             inputs=[session_token, index_input],
-            outputs=[current_status, image_display, crop1_display, label1_display, 
+            outputs=[current_status, review_status, image_display, crop1_display, label1_display, 
                     crop2_display, label2_display, annotation_selector, current_crop_display, 
                     current_label_display, reviewer_crop, reviewer_label, comments]
         )
@@ -558,7 +611,7 @@ def create_interface():
         ).then(
             load_annotation_data,
             inputs=[session_token, index_input],
-            outputs=[current_status, image_display, crop1_display, label1_display, 
+            outputs=[current_status, review_status, image_display, crop1_display, label1_display, 
                     crop2_display, label2_display, annotation_selector, current_crop_display, 
                     current_label_display, reviewer_crop, reviewer_label, comments]
         )
@@ -572,5 +625,7 @@ if __name__ == "__main__":
         server_port=7860,
         share=False,
         debug=True,
-        allowed_paths=["/data/nagpur_data/imgs/maize", "/home/ashishp_wadhwaniai_org/pdsa-annotation-double"]
+        allowed_paths=["/data/nagpur_data/imgs/maize", "/home/ashishp_wadhwaniai_org/pdsa-annotation-double"],
+        show_api=False,
+        show_error=True,
     )
