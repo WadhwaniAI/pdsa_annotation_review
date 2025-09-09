@@ -13,10 +13,8 @@ A Gradio-based web application for reviewing and verifying crop annotations with
 
 ## Demo
 
-Watch the demo video to see the PDSA Annotation Review Tool in action:
-
-https://github.com/WadhwaniAI/pdsa-annotation-double/assets/demo.mov
-
+Watch the demo video to see the PDSA Annotation Review Tool in action: [link](https://drive.google.com/file/d/1Xq-zTAiZSDlq6gwZwh95-xFvAfHlIOB2/view?usp=sharing
+)
 
 ## Installation
 
